@@ -4,7 +4,7 @@
 <templates xml:space="preserve">
 
     <t
-        t-name="web_widget_progressbar_color.ProgressBarFieldColor"
+        t-name="web_widget_progressbar_color.ProgressBarFieldGradient"
         t-inherit="web.ProgressBarField"
         t-inherit-mode="primary"
         owl="1"
@@ -12,7 +12,7 @@
         <xpath expr="//div[@t-attf-class]" position="attributes">
             <attribute
                 name="t-attf-class"
-                add="{{ (state.currentValue > 40 and state.currentValue &lt;= 70) ? 'o_progress_warning' : state.currentValue > 70 ?  'o_progress_danger' : ''}}"
+                add="{{'o_progressbar_gradient'}}"
                 separator=" "
             />
         </xpath>
