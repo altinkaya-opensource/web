@@ -13,6 +13,7 @@
     ],
     "assets": {
         "web.assets_backend": [
+            "web_widget_product_label_section_and_note/static/src/core/utils/**/*",
             "web_widget_product_label_section_and_note/static/src/components/**/*",
         ],
     },
