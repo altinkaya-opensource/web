@@ -6,15 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-11-06 17:37+0000\n"
-"Last-Translator: Rémi <remi@le-filament.com>\n"
-"Language-Team: none\n"
-"Language: fr\n"
+"POT-Creation-Date: 2025-02-11 19:12+0000\n"
+"PO-Revision-Date: 2025-02-11 19:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.17\n"
+"Plural-Forms: \n"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
@@ -24,8 +23,7 @@ msgid ""
 "                        the page."
 msgstr ""
 "<span class=\"fa fa-info fa-2x me-2\"/>\n"
-"                        Pour que les modifications soient effectives, merci "
-"d'actualiser\n"
+"                        Pour que les modifications soient effectives, merci d'actualiser\n"
 "                        la page."
 
 #. module: web_company_color
@@ -51,7 +49,7 @@ msgstr "Couleurs"
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_res_company
 msgid "Companies"
-msgstr "Sociétés"
+msgstr "Société"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__company_colors
@@ -96,7 +94,7 @@ msgstr "Couleur du texte de la barre de navigation"
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_ir_qweb
 msgid "Qweb"
-msgstr "Qweb"
+msgstr ""
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__scss_modif_timestamp

@@ -1,13 +1,13 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#   * web_dashboard_tile
+# 	* web_dashboard_tile
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-26 21:53+0000\n"
-"PO-Revision-Date: 2022-10-26 21:53+0000\n"
+"POT-Creation-Date: 2025-02-11 19:17+0000\n"
+"PO-Revision-Date: 2025-02-11 19:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -38,6 +38,7 @@ msgid "Average"
 msgstr "Moyenne"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Average value of '%s'"
@@ -54,10 +55,40 @@ msgid "Category"
 msgstr "Catégorie"
 
 #. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
+msgid "Changeset Changes"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
+msgid "Changesets"
+msgstr ""
+
+#. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__count
 msgid "Count"
 msgstr "Décompte"
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
+msgid "Count Changesets"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr ""
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
@@ -111,6 +142,7 @@ msgid "Domain"
 msgstr "Domaine"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain_error
 #, python-format
@@ -118,6 +150,7 @@ msgid "Domain Error"
 msgstr "Erreur sur le domaine"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Error"
@@ -208,6 +241,7 @@ msgid "Maximum"
 msgstr ""
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Maximum value of '%s'"
@@ -220,6 +254,7 @@ msgid "Median"
 msgstr "Médiane"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Median value of '%s'"
@@ -232,6 +267,7 @@ msgid "Minimum"
 msgstr ""
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Minimum value of '%s'"
@@ -254,6 +290,7 @@ msgid "Name"
 msgstr "Nom"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Number of records"
@@ -280,6 +317,7 @@ msgid "Overview Settings"
 msgstr "Paramétrage de la vue d'ensemble"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Please select a field from the selected model."
@@ -383,6 +421,12 @@ msgid "Settings"
 msgstr "Configuration"
 
 #. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
+msgid "Smart Search"
+msgstr ""
+
+#. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__sum
 msgid "Sum"
@@ -395,6 +439,24 @@ msgid "Technical Informations"
 msgstr "Informations techniques"
 
 #. module: web_dashboard_tile
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr ""
+
+#. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_ids
 msgid "Tiles"
 msgstr "Tuiles"
@@ -405,12 +467,14 @@ msgid "Tiles Quantity"
 msgstr "Nombre de tuiles"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Total value of '%s'"
 msgstr "Somme du champ '%s'"
 
 #. module: web_dashboard_tile
+#. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Unimplemented Feature. Search on Active field disabled."
@@ -422,3 +486,9 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_id
 msgid "User"
 msgstr "Utilisateur"
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr ""

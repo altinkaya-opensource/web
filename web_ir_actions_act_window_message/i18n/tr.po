@@ -1,26 +1,162 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * web_ir_actions_act_window_message
+# 	* web_ir_actions_act_window_message
 #
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-02 09:52+0000\n"
-"PO-Revision-Date: 2017-06-02 09:52+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
-"Language-Team: Turkish (https://www.transifex.com/oca/teams/23907/tr/)\n"
-"Language: tr\n"
+"POT-Creation-Date: 2025-02-11 19:24+0000\n"
+"PO-Revision-Date: 2025-02-11 19:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: \n"
 
 #. module: web_ir_actions_act_window_message
-#. openerp-web
-#: code:addons/web_ir_actions_act_window_message/static/src/js/web_ir_actions_act_window_message.js:0
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__help
+msgid "Action Description"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__name
+msgid "Action Name"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__type
+msgid "Action Type"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model,name:web_ir_actions_act_window_message.model_ir_actions_act_window_message
+msgid "Action Window Message"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__binding_model_id
+msgid "Binding Model"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__binding_type
+msgid "Binding Type"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__binding_view_types
+msgid "Binding View Types"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__changeset_change_ids
+msgid "Changeset Changes"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__changeset_ids
+msgid "Changesets"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#. odoo-javascript
+#: code:addons/web_ir_actions_act_window_message/static/src/js/web_ir_actions_act_window_message.esm.js:0
 #, python-format
 msgid "Close"
 msgstr "Kapat"
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__count_changesets
+msgid "Count Changesets"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__xml_id
+msgid "External ID"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__id
+msgid "ID"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,help:web_ir_actions_act_window_message.field_ir_actions_act_window_message__help
+msgid ""
+"Optional help text for the users with a description of the target view, such"
+" as its usage and purpose."
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,help:web_ir_actions_act_window_message.field_ir_actions_act_window_message__binding_model_id
+msgid ""
+"Setting a value makes this action available in the sidebar for the given "
+"model."
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__smart_search
+msgid "Smart Search"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,help:web_ir_actions_act_window_message.field_ir_actions_act_window_message__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,help:web_ir_actions_act_window_message.field_ir_actions_act_window_message__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,help:web_ir_actions_act_window_message.field_ir_actions_act_window_message__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr ""
+
+#. module: web_ir_actions_act_window_message
+#: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr ""
