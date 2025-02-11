@@ -18,42 +18,42 @@ msgstr ""
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
-msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Icona vicino al nome\"/>"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
 msgid "Background Color"
-msgstr "Colore sfondo"
+msgstr "Couleur d'arrière-plan"
 
 #. module: web_pwa_oca
 #: model:ir.model,name:web_pwa_oca.model_res_config_settings
 msgid "Config Settings"
-msgstr "Impostazioni raggruppamento approvvigionamento acquisti"
+msgstr "Paramètres de regroupement des achats"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_icon
 msgid "Icon"
-msgstr "Icona"
+msgstr "Icône"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name"
-msgstr "Nome"
+msgstr "Nom"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name and icon of your PWA"
-msgstr "Nome è icona per la tua PWA"
+msgstr "Nom et icône de votre PWA"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_name
 msgid "Name of the Progressive Web Application"
-msgstr "Nome della Progressive Web Application"
+msgstr "Nom de l’application Web progressive"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "PWA Title"
-msgstr "Titolo PWA"
+msgstr "Titre PWA"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
@@ -63,12 +63,12 @@ msgstr ""
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_name
 msgid "Progressive Web App Name"
-msgstr "Nome Progressive Web App"
+msgstr "Nom de l’application web progressive"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_short_name
 msgid "Progressive Web App Short Name"
-msgstr "Nome brave Progressive Web App"
+msgstr "Nom court de l’application web progressive"
 
 #. module: web_pwa_oca
 #. odoo-javascript
@@ -78,55 +78,53 @@ msgid ""
 "Service workers are not supported! Maybe you are not using HTTPS or you work"
 " in private mode."
 msgstr ""
-"I servizi worker non sono supportati! Forse non si sta usando HTTPS o si "
-"lavora in modalità privata."
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Short Name"
-msgstr "Nome corto"
+msgstr "Nom court"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_short_name
 msgid "Short Name of the Progressive Web Application"
-msgstr "Nome breve della Progressive Web Application"
+msgstr "Nom court de l’application Web progressive"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_theme_color
 msgid "Theme Color"
-msgstr "Colore tema"
+msgstr "Couleur du thème"
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload PNG files bigger than 512x512"
-msgstr "Si possono caricare solo file PNG maggiori di 512x512"
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload SVG or PNG files. Found: %s."
-msgstr "Si possono caricare solo file SVG o PNG. trovato %s."
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can't upload a file with more than 2 MB."
-msgstr "Non si può caricare un file superiore a 2MB."
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-javascript
 #: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
 #, python-format
 msgid "[ServiceWorker] Registered:"
-msgstr "[ServiceWorker] registrato:"
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-javascript
 #: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
 #, python-format
 msgid "[ServiceWorker] Registration failed: "
-msgstr "[ServiceWorker] Registrazione fallita: "
+msgstr ""
