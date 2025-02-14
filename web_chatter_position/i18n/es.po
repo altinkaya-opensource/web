@@ -23,12 +23,12 @@ msgstr "Abajo"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Cambios en el conjunto de cambios"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__chatter_position
@@ -38,17 +38,17 @@ msgstr "Posición del historial de comunicación"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Contar los cambios"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Contar cambios pendientes"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Contar conjuntos de cambios pendientes"
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__auto
@@ -68,17 +68,17 @@ msgstr "Búsqueda inteligente"
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "El número de cambios pendientes de este registro"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "El número de cambios pendientes de este registro"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "El número total de cambios de este registro"
 
 #. module: web_chatter_position
 #: model:ir.model,name:web_chatter_position.model_res_users
@@ -88,4 +88,4 @@ msgstr "Usuario"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "El usuario puede ver el conjunto de cambios"

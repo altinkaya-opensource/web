@@ -21,12 +21,13 @@ msgstr ""
 #, python-format
 msgid "'%(field_name)s' is not a valid field for model '%(model_name)s'!"
 msgstr ""
+"'%(имя_поля)s' не является допустимым полем для модели '%(имя_модели)s'!"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_true
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_true
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__changeset_change_ids
@@ -34,7 +35,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__changeset_change_ids
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Набор изменений Изменения"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__changeset_ids
@@ -42,7 +43,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__changeset_ids
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Наборы изменений"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_changesets
@@ -50,7 +51,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_changesets
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Наборы изменений"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_pending_changeset_changes
@@ -58,7 +59,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Подсчет ожидающих изменений набора изменений"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_pending_changesets
@@ -66,37 +67,37 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_pending_changesets
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Подсчет ожидающих изменений"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit
 msgid "Create & Edit Option"
-msgstr ""
+msgstr "Опция создания и редактирования"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit_wizard
 msgid "Create & Edit Wizard"
-msgstr ""
+msgstr "Мастер создания и редактирования"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create
 msgid "Create Option"
-msgstr ""
+msgstr "Создать опцию"
 
 #. module: web_m2x_options_manager
 #: model_terms:ir.ui.view,arch_db:web_m2x_options_manager.view_model_form_inherit
 msgid "Create/Edit Options"
-msgstr ""
+msgstr "Опции создания/редактирования"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Создано"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Создано на"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit_wizard
@@ -104,6 +105,8 @@ msgid ""
 "Defines behaviour for 'Create & Edit' Wizard\n"
 "Set to False to prevent 'Create & Edit' Wizard to pop up"
 msgstr ""
+"Определяет поведение мастера 'Create &amp; Edit' Wizard\n"
+"Установите значение False, чтобы предотвратить появление мастера 'Create &amp; Edit' Wizard"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit
@@ -113,6 +116,10 @@ msgid ""
 "* Add/Remove: option 'Create & Edit' is set to True/False only if not already present in view definition\n"
 "* Force Add/Remove: option 'Create & Edit' is always set to True/False, overriding any pre-existing option"
 msgstr ""
+"Определяет поведение для опции 'Create &amp; Edit':\n"
+"* Ничего не делать: ничего не делается\n"
+"* Добавить/Удалить: опция 'Create &amp; Edit' устанавливается в значение True/False только в том случае, если она еще не присутствует в определении представления\n"
+"* Принудительное добавление/удаление: опция 'Create &amp; Edit' всегда устанавливается в значение True/False, отменяя все ранее существовавшие опции."
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create
@@ -122,32 +129,36 @@ msgid ""
 "* Add/Remove: option 'Create' is set to True/False only if not already present in view definition\n"
 "* Force Add/Remove: option 'Create' is always set to True/False, overriding any pre-existing option"
 msgstr ""
+"Определяет поведение для опции 'Create':\n"
+"* Ничего не делать: ничего не делается\n"
+"* Добавить/Удалить: опция 'Create' устанавливается в значение True/False только в том случае, если она еще не присутствует в определении вида\n"
+"* Принудительное добавление/удаление: опция \"Создать\" всегда устанавливается в значение True/False, отменяя все ранее существовавшие опции."
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Отображаемое имя"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__none
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__none
 msgid "Do nothing"
-msgstr ""
+msgstr "Ничего не делать"
 
 #. module: web_m2x_options_manager
 #: model_terms:ir.ui.view,arch_db:web_m2x_options_manager.view_model_form_inherit
 msgid "Empty"
-msgstr ""
+msgstr "Пустой"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__field_id
 msgid "Field"
-msgstr ""
+msgstr "Поле"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__field_name
 msgid "Field Name"
-msgstr ""
+msgstr "Название поля"
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_model_fields
@@ -157,59 +168,59 @@ msgstr "Поля"
 #. module: web_m2x_options_manager
 #: model_terms:ir.ui.view,arch_db:web_m2x_options_manager.view_model_form_inherit
 msgid "Fill"
-msgstr ""
+msgstr "Заполните"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__force_true
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__force_true
 msgid "Force Add"
-msgstr ""
+msgstr "Force Add"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__force_false
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__force_false
 msgid "Force Remove"
-msgstr ""
+msgstr "Force Remove"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Последнее изменение"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последнее обновление"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последнее обновление"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__m2x_create_edit_option_ids
 msgid "M2X Create Edit Option"
-msgstr ""
+msgstr "M2X Создать Редактировать Опция"
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_m2x_create_edit_option
 msgid "Manage Options 'Create/Edit' For Fields"
-msgstr ""
+msgstr "Управление опциями 'Создать/Редактировать' для полей"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__model_id
 msgid "Model"
-msgstr ""
+msgstr "Модель"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__model_name
 msgid "Model Name"
-msgstr ""
+msgstr "Название модели"
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_model
@@ -221,18 +232,18 @@ msgstr "Модели"
 #: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py:0
 #, python-format
 msgid "Only Many2many and Many2one fields can be chosen!"
-msgstr ""
+msgstr "Можно выбрать только поля Many2many и Many2one!"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.constraint,message:web_m2x_options_manager.constraint_m2x_create_edit_option_model_field_uniqueness
 msgid "Options must be unique for each model/field couple!"
-msgstr ""
+msgstr "Опции должны быть уникальными для каждой модели/пары полей!"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_false
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_false
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__smart_search
@@ -240,7 +251,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__smart_search
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Умный поиск"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_pending_changeset_changes
@@ -248,7 +259,7 @@ msgstr ""
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Количество ожидающих изменений этой записи"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_pending_changesets
@@ -256,7 +267,7 @@ msgstr ""
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_pending_changesets
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Количество ожидающих изменений этой записи"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_changesets
@@ -264,7 +275,7 @@ msgstr ""
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_changesets
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Общее количество наборов изменений этой записи"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__user_can_see_changeset
@@ -272,7 +283,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Пользователь может видеть набор изменений"
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_ui_view

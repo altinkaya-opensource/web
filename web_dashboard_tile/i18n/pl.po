@@ -18,128 +18,128 @@ msgstr ""
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__action_id
 msgid "Action"
-msgstr ""
+msgstr "Działanie"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__active
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__active
 msgid "Active"
-msgstr ""
+msgstr "Aktywny"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 msgid "Archived"
-msgstr ""
+msgstr "Zarchiwizowane"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__avg
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__avg
 msgid "Average"
-msgstr ""
+msgstr "Średnia"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Average value of '%s'"
-msgstr ""
+msgstr "Średnia wartość \"%s"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__background_color
 msgid "Background Color"
-msgstr ""
+msgstr "Kolor tła"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__category_id
 msgid "Category"
-msgstr ""
+msgstr "Kategoria"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Zmiany w zestawie zmian"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__count
 msgid "Count"
-msgstr ""
+msgstr "Proszę policzyć"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Proszę liczyć zestawy zmian"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Proszę policzyć oczekujące zmiany w zestawie zmian"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Proszę policzyć oczekujące zestawy zmian"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Stworzone przez"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_date
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Utworzono na"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_category
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_category
 msgid "Dashboard Categories"
-msgstr ""
+msgstr "Kategorie pulpitu nawigacyjnego"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_category_2_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_tile
 msgid "Dashboard Items"
-msgstr ""
+msgstr "Elementy pulpitu nawigacyjnego"
 
 #. module: web_dashboard_tile
 #: model:ir.model,name:web_dashboard_tile.model_tile_tile
 msgid "Dashboard Tile"
-msgstr ""
+msgstr "Kafelek pulpitu nawigacyjnego"
 
 #. module: web_dashboard_tile
 #: model:ir.model,name:web_dashboard_tile.model_tile_category
 msgid "Dashboard Tile Category"
-msgstr ""
+msgstr "Kategoria kafelków pulpitu nawigacyjnego"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Display"
-msgstr ""
+msgstr "Wyświetlacz"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__display_name
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Wyświetlana nazwa"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain
 msgid "Domain"
-msgstr ""
+msgstr "Domena"
 
 #. module: web_dashboard_tile
 #. odoo-python
@@ -147,45 +147,47 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain_error
 #, python-format
 msgid "Domain Error"
-msgstr ""
+msgstr "Błąd domeny"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Błąd"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__font_color
 msgid "Font Color"
-msgstr ""
+msgstr "Kolor czcionki"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__group_ids
 msgid "Groups"
-msgstr ""
+msgstr "Grupy"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__hidden
 msgid "Hidden"
-msgstr ""
+msgstr "Ukryty"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "Hide if null"
-msgstr ""
+msgstr "Proszę ukryć, jeśli null"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__id
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "If checked, the item will be hidden if the primary value is null."
 msgstr ""
+"Jeśli zaznaczono, element zostanie ukryty, jeśli wartość podstawowa jest "
+"zerowa."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__group_ids
@@ -194,163 +196,167 @@ msgid ""
 "note that it will only work for global tiles (that is, when User field is "
 "left empty)"
 msgstr ""
+"Jeśli to pole jest ustawione, tylko użytkownicy tej grupy mogą wyświetlać "
+"ten kafelek. Proszę pamiętać, że będzie to działać tylko dla kafelków "
+"globalnych (tzn. gdy pole Użytkownik pozostanie puste)."
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 msgid "Items"
-msgstr ""
+msgstr "Pozycje"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category____last_update
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Ostatnia modyfikacja"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_uid
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Ostatnia aktualizacja"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_date
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Ostatnia aktualizacja"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__action_id
 msgid "Let empty to use the default action related to the selected model."
 msgstr ""
+"Proszę opróżnić, aby użyć domyślnej akcji związanej z wybranym modelem."
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Main Value"
-msgstr ""
+msgstr "Główna wartość"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__max
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__max
 msgid "Maximum"
-msgstr ""
+msgstr "Maksimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Maximum value of '%s'"
-msgstr ""
+msgstr "Maksymalna wartość \"%s"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__median
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__median
 msgid "Median"
-msgstr ""
+msgstr "Mediana"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Median value of '%s'"
-msgstr ""
+msgstr "Wartość mediany \"%s"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__min
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__min
 msgid "Minimum"
-msgstr ""
+msgstr "Minimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Minimum value of '%s'"
-msgstr ""
+msgstr "Minimalna wartość \"%s"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_id
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_name
 msgid "Model name"
-msgstr ""
+msgstr "Nazwa modelu"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__name
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__name
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Number of records"
-msgstr ""
+msgstr "Liczba rekordów"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__action_id
 msgid "Odoo Action"
-msgstr ""
+msgstr "Odoo Action"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__menu_id
 msgid "Odoo Menu"
-msgstr ""
+msgstr "Menu Odoo"
 
 #. module: web_dashboard_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_dashboard_tile
 msgid "Overview"
-msgstr ""
+msgstr "Przegląd"
 
 #. module: web_dashboard_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_configuration
 msgid "Overview Settings"
-msgstr ""
+msgstr "Przegląd ustawień"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Please select a field from the selected model."
-msgstr ""
+msgstr "Proszę wybrać pole z wybranego modelu."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_error
 msgid "Primary Error"
-msgstr ""
+msgstr "Podstawowy błąd"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_field_id
 msgid "Primary Field"
-msgstr ""
+msgstr "Główna dziedzina"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_format
 msgid "Primary Format"
-msgstr ""
+msgstr "Format podstawowy"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_formated_value
 msgid "Primary Formated Value"
-msgstr ""
+msgstr "Primary Formated Value"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_function
 msgid "Primary Function"
-msgstr ""
+msgstr "Podstawowe funkcje"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_helper
 msgid "Primary Helper"
-msgstr ""
+msgstr "Główny pomocnik"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_value
 msgid "Primary Value"
-msgstr ""
+msgstr "Podstawowa wartość"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__primary_format
@@ -359,126 +365,128 @@ msgid ""
 "Python Format String valid with str.format()\n"
 "ie: '{:,} Kgs' will output '1,000 Kgs' if value is 1000."
 msgstr ""
+"Formatowanie ciągów znaków w Pythonie za pomocą str.format()\n"
+"\"{:,} Kgs\" wyświetli \"1,000 Kgs\", jeśli wartość wynosi 1000."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_error
 msgid "Secondary Error"
-msgstr ""
+msgstr "Błąd dodatkowy"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_field_id
 msgid "Secondary Field"
-msgstr ""
+msgstr "Dziedzina drugorzędna"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_format
 msgid "Secondary Format"
-msgstr ""
+msgstr "Format dodatkowy"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_formated_value
 msgid "Secondary Formated Value"
-msgstr ""
+msgstr "Secondary Formated Value"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_function
 msgid "Secondary Function"
-msgstr ""
+msgstr "Dodatkowa funkcja"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_helper
 msgid "Secondary Helper"
-msgstr ""
+msgstr "Drugi pomocnik"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_value
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Secondary Value"
-msgstr ""
+msgstr "Wartość drugorzędna"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Security"
-msgstr ""
+msgstr "Bezpieczeństwo"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__sequence
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__sequence
 msgid "Sequence"
-msgstr ""
+msgstr "Sekwencja"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Settings"
-msgstr ""
+msgstr "Ustawienia"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Inteligentne wyszukiwanie"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__sum
 msgid "Sum"
-msgstr ""
+msgstr "Suma"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Technical Informations"
-msgstr ""
+msgstr "Informacje techniczne"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Liczba oczekujących zmian tego rekordu"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Liczba oczekujących zestawów zmian tego rekordu"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Ogólna liczba zestawów zmian tego rekordu"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_ids
 msgid "Tiles"
-msgstr ""
+msgstr "Płytki"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_qty
 msgid "Tiles Quantity"
-msgstr ""
+msgstr "Ilość płytek"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Total value of '%s'"
-msgstr ""
+msgstr "Całkowita wartość \"%s"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Unimplemented Feature. Search on Active field disabled."
-msgstr ""
+msgstr "Funkcja niewdrożona. Wyszukiwanie w aktywnym polu wyłączone."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_id
 msgid "User"
-msgstr ""
+msgstr "Użytkownik"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Użytkownik może zobaczyć zestaw zmian"

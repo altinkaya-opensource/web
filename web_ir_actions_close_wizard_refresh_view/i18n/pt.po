@@ -18,102 +18,102 @@ msgstr ""
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model,name:web_ir_actions_close_wizard_refresh_view.model_ir_actions_close_wizard_refresh_view
 msgid "Action Close Wizard Window Refresh View"
-msgstr ""
+msgstr "Ação Fechar Assistente Janela Atualizar Vista"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
 msgid "Action Description"
-msgstr ""
+msgstr "Descrição da ação"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__name
 msgid "Action Name"
-msgstr ""
+msgstr "Nome da ação"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__type
 msgid "Action Type"
-msgstr ""
+msgstr "Tipo de ação"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
 msgid "Binding Model"
-msgstr ""
+msgstr "Modelo de encadernação"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_type
 msgid "Binding Type"
-msgstr ""
+msgstr "Tipo de encadernação"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_view_types
 msgid "Binding View Types"
-msgstr ""
+msgstr "Tipos de vista de encadernação"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Alterações do conjunto de alterações"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Conjunto de alterações"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Contagem de conjuntos de alterações"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Conte as alterações pendentes do conjunto de alterações"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Conte os conjuntos de alterações pendentes"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Criado por"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Criado em"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Mostrar nome"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__xml_id
 msgid "External ID"
-msgstr ""
+msgstr "ID externa"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Última modificação em"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Última atualização por"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Última atualização em"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
@@ -121,6 +121,8 @@ msgid ""
 "Optional help text for the users with a description of the target view, such"
 " as its usage and purpose."
 msgstr ""
+"Texto de ajuda opcional para os utilizadores com uma descrição da vista de "
+"destino, tal como a sua utilização e finalidade."
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
@@ -128,28 +130,30 @@ msgid ""
 "Setting a value makes this action available in the sidebar for the given "
 "model."
 msgstr ""
+"A definição de um valor torna esta ação disponível na barra lateral para o "
+"modelo em questão."
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Pesquisa inteligente"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "O número de alterações pendentes deste registo"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "O número de conjuntos de alterações pendentes deste registo"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "O número total de conjuntos de alterações deste registo"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "O utilizador pode ver o conjunto de alterações"

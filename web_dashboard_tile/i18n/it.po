@@ -58,13 +58,13 @@ msgstr "Categoria"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Modifiche al set di modifiche"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Modifiche"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
@@ -76,19 +76,19 @@ msgstr "Conteggio"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Conteggio delle modifiche"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Conteggio delle modifiche del Changeset in sospeso"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Conteggio dei Changeset in sospeso"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
@@ -180,7 +180,7 @@ msgstr "Nascondere se nullo"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__id
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__hide_if_null
@@ -424,7 +424,7 @@ msgstr "Impostazioni"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Ricerca intelligente"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
@@ -442,19 +442,19 @@ msgstr "Informazioni tecniche"
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Il numero di modifiche in sospeso di questo record"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Il numero di changeset in sospeso di questo record"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Il numero complessivo di changeset di questo record"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_ids
@@ -490,4 +490,4 @@ msgstr "Utente"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "L'utente può vedere il Changeset"

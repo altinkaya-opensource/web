@@ -28,7 +28,7 @@ msgstr "Moins"
 #: code:addons/web_widget_numeric_step/static/src/numeric_step.esm.js:0
 #, python-format
 msgid "Numeric Step"
-msgstr ""
+msgstr "Étape numérique"
 
 #. module: web_widget_numeric_step
 #. odoo-javascript
@@ -36,4 +36,4 @@ msgstr ""
 #: code:addons/web_widget_numeric_step/static/src/numeric_step.xml:0
 #, python-format
 msgid "Plus"
-msgstr ""
+msgstr "Plus"

@@ -20,76 +20,76 @@ msgstr ""
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Danger"
-msgstr ""
+msgstr "Danger"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_danger_channel_name
 msgid "Notify Danger Channel Name"
-msgstr ""
+msgstr "Notify Danger Channel Name"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_default_channel_name
 msgid "Notify Default Channel Name"
-msgstr ""
+msgstr "Notify Default Channel Name"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_info_channel_name
 msgid "Notify Info Channel Name"
-msgstr ""
+msgstr "Notify Info Channel Name"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_success_channel_name
 msgid "Notify Success Channel Name"
-msgstr ""
+msgstr "Notify Success Channel Name"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_warning_channel_name
 msgid "Notify Warning Channel Name"
-msgstr ""
+msgstr "Notify Warning Channel Name"
 
 #. module: web_notify
 #. odoo-javascript
 #: code:addons/web_notify/static/src/js/services/notification_services.esm.js:0
 #, python-format
 msgid "Open"
-msgstr ""
+msgstr "Open"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Sending a notification to another user is forbidden."
-msgstr ""
+msgstr "Sending a notification to another user is forbidden."
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Success"
-msgstr ""
+msgstr "Success"
 
 #. module: web_notify
 #: model:ir.model,name:web_notify.model_res_users
 msgid "User"
-msgstr ""
+msgstr "User"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Warning"
-msgstr ""
+msgstr "Warning"

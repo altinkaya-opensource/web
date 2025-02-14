@@ -20,7 +20,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -28,7 +28,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachment counter loading..."
-msgstr ""
+msgstr "附件计数器装载..."
 
 #. module: web_responsive
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachments"
-msgstr ""
+msgstr "附件"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -44,7 +44,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "CLEAR"
-msgstr ""
+msgstr "清晰"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -52,7 +52,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Discard"
-msgstr ""
+msgstr "废弃物"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -61,14 +61,14 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "FILTER"
-msgstr ""
+msgstr "过滤"
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Home Menu"
-msgstr ""
+msgstr "主页菜单"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -76,7 +76,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Maximize"
-msgstr ""
+msgstr "最大化"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -84,7 +84,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Minimize"
-msgstr ""
+msgstr "最小化"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -92,7 +92,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr ""
+msgstr "新版本"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -101,7 +101,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "SEE RESULT"
-msgstr ""
+msgstr "查看结果"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -109,14 +109,14 @@ msgstr ""
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Search menus..."
-msgstr ""
+msgstr "搜索菜单..."
 
 #. module: web_responsive
 #. odoo-javascript
@@ -124,11 +124,11 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "Search..."
-msgstr ""
+msgstr "搜索..."
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "View switcher"
-msgstr ""
+msgstr "查看切换器"

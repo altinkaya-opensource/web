@@ -18,7 +18,7 @@ msgstr ""
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
-msgstr ""
+msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
@@ -108,7 +108,7 @@ msgstr "Solo puede cargar archivos PNG de más de 512 x 512"
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload SVG or PNG files. Found: %s."
-msgstr ""
+msgstr "Sólo puede cargar archivos SVG o PNG. Encontrado: %s."
 
 #. module: web_pwa_oca
 #. odoo-python

@@ -19,31 +19,31 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Changeset Değişiklikleri"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__changeset_ids
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_changesets
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Sayım Değişiklik Setleri"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Bekleyen Değişiklik Seti Değişikliklerini Say"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Bekleyen Değişiklik Setlerini Say"
 
 #. module: web_dark_mode
 #. odoo-javascript
@@ -67,25 +67,25 @@ msgstr "HTTP Yönlendirme"
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__smart_search
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Akıllı Arama"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dark_mode.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Bu kaydın bekleyen değişiklik sayısı"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_pending_changesets
 #: model:ir.model.fields,help:web_dark_mode.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Bu kaydın bekleyen değişiklik setlerinin sayısı"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_changesets
 #: model:ir.model.fields,help:web_dark_mode.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Bu kaydın toplam değişiklik seti sayısı"
 
 #. module: web_dark_mode
 #: model:ir.model,name:web_dark_mode.model_res_users
@@ -96,4 +96,4 @@ msgstr "Kullanıcı"
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Kullanıcı Değişiklikleri Görebilir"

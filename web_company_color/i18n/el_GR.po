@@ -22,26 +22,29 @@ msgid ""
 "                        In order for the changes to take effect, please refresh\n"
 "                        the page."
 msgstr ""
+"<span class=\"fa fa-info fa-2x me-2\"/>\n"
+"                        Προκειμένου να τεθούν σε ισχύ οι αλλαγές, παρακαλούμε ανανεώστε\n"
+"                        τη σελίδα."
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_bg
 msgid "Button Background Color"
-msgstr ""
+msgstr "Χρώμα φόντου κουμπιών"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_bg_hover
 msgid "Button Background Color Hover"
-msgstr ""
+msgstr "Χρώμα φόντου κουμπιού Hover"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_text
 msgid "Button Text Color"
-msgstr ""
+msgstr "Χρώμα κειμένου κουμπιών"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Colors"
-msgstr ""
+msgstr "Χρώματα"
 
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_res_company
@@ -51,49 +54,49 @@ msgstr "Εταιρίες"
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__company_colors
 msgid "Company Colors"
-msgstr ""
+msgstr "Χρώματα της εταιρείας"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Company Styles"
-msgstr ""
+msgstr "Στυλ εταιρείας"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Compute colors from logo"
-msgstr ""
+msgstr "Υπολογισμός χρωμάτων από το λογότυπο"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_link_text
 msgid "Link Text Color"
-msgstr ""
+msgstr "Χρώμα κειμένου συνδέσμου"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_link_text_hover
 msgid "Link Text Color Hover"
-msgstr ""
+msgstr "Χρώμα κειμένου συνδέσμου Hover"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_bg
 msgid "Navbar Background Color"
-msgstr ""
+msgstr "Χρώμα φόντου γραμμής πλοήγησης"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_bg_hover
 msgid "Navbar Background Color Hover"
-msgstr ""
+msgstr "Χρώμα φόντου γραμμής πλοήγησης Hover"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_text
 msgid "Navbar Text Color"
-msgstr ""
+msgstr "Χρώμα κειμένου γραμμής πλοήγησης"
 
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_ir_qweb
 msgid "Qweb"
-msgstr ""
+msgstr "Qweb"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__scss_modif_timestamp
 msgid "SCSS Modif. Timestamp"
-msgstr ""
+msgstr "SCSS Modif. Timestamp"

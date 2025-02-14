@@ -20,42 +20,42 @@ msgstr ""
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid ", are you sure it does not exist yet?"
-msgstr ""
+msgstr "Henüz var olmadığından emin misiniz?"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create"
-msgstr ""
+msgstr "Oluştur"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr ""
+msgstr "\"%s\" oluşturun"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create and Edit"
-msgstr ""
+msgstr "Oluştur ve Düzenle"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create and edit..."
-msgstr ""
+msgstr "Oluşturma ve düzenleme..."
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr ""
+msgstr "Iskarta"
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
@@ -67,21 +67,21 @@ msgstr "HTTP Yönlendirme"
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr ""
+msgstr "Yeni: %s"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr ""
+msgstr "Kayıt yok"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "Open: "
-msgstr ""
+msgstr "Açık: "
 
 #. module: web_m2x_options
 #. odoo-javascript
@@ -95,7 +95,7 @@ msgstr "Daha Fazla..."
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr ""
+msgstr "Yazmaya başlayın..."
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
@@ -107,11 +107,11 @@ msgstr "Sistem Parametresi"
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "You are creating a new"
-msgstr ""
+msgstr "Yeni bir ERP sistemi oluşturuyorsunuz."
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr ""
+msgstr "yeni bir"

@@ -18,67 +18,67 @@ msgstr ""
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__bottom
 msgid "Bottom"
-msgstr ""
+msgstr "Дъно"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Промени в набора от промени"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Промени"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__chatter_position
 msgid "Chatter Position"
-msgstr ""
+msgstr "Позиция в Chatter"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Промени в броя"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Отчитане на чакащите промени в набора от промени"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Брой чакащи промени"
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__auto
 msgid "Responsive"
-msgstr ""
+msgstr "Отзивчив"
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__sided
 msgid "Sided"
-msgstr ""
+msgstr "Страници"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Smart Search"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Брой на предстоящите промени на този запис"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Броят на чакащите промени в този запис"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Общ брой на промените в този запис"
 
 #. module: web_chatter_position
 #: model:ir.model,name:web_chatter_position.model_res_users
@@ -88,4 +88,4 @@ msgstr "Потребител"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Потребителят може да види набора от промени"

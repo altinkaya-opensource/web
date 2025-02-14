@@ -61,7 +61,7 @@ msgstr "Verwerfen"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "FILTER"
-msgstr ""
+msgstr "FILTER"
 
 #. module: web_responsive
 #. odoo-javascript

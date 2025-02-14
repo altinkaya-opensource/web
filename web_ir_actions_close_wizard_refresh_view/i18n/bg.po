@@ -18,102 +18,102 @@ msgstr ""
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model,name:web_ir_actions_close_wizard_refresh_view.model_ir_actions_close_wizard_refresh_view
 msgid "Action Close Wizard Window Refresh View"
-msgstr ""
+msgstr "Действие Затваряне на съветника Прозорец Обновяване на изгледа"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
 msgid "Action Description"
-msgstr ""
+msgstr "Описание на действието"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__name
 msgid "Action Name"
-msgstr ""
+msgstr "Име на действието"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__type
 msgid "Action Type"
-msgstr ""
+msgstr "Вид действие"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
 msgid "Binding Model"
-msgstr ""
+msgstr "Модел на свързване"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_type
 msgid "Binding Type"
-msgstr ""
+msgstr "Тип на подвързване"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_view_types
 msgid "Binding View Types"
-msgstr ""
+msgstr "Типове изгледи за свързване"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Промени в набора от промени"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Промени"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Промени в броя"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Отчитане на чакащите промени в набора от промени"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Брой чакащи промени"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Създаден от"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Създаден на"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Показвайте името"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__xml_id
 msgid "External ID"
-msgstr ""
+msgstr "Външен идентификатор"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Последна промяна на"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Последна актуализация от"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Последна актуализация на"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
@@ -121,6 +121,8 @@ msgid ""
 "Optional help text for the users with a description of the target view, such"
 " as its usage and purpose."
 msgstr ""
+"Незадължителен помощен текст за потребителите с описание на целевия изглед, "
+"като например неговата употреба и предназначение."
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
@@ -128,28 +130,30 @@ msgid ""
 "Setting a value makes this action available in the sidebar for the given "
 "model."
 msgstr ""
+"Задаването на стойност прави това действие достъпно в страничната лента за "
+"дадения модел."
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Smart Search"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Брой на предстоящите промени на този запис"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Броят на чакащите промени в този запис"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Общ брой на промените в този запис"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Потребителят може да види набора от промени"

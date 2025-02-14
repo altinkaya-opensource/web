@@ -28,7 +28,7 @@ msgstr "Wszystkie"
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachment counter loading..."
-msgstr ""
+msgstr "Ładowanie licznika załączników..."
 
 #. module: web_responsive
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachments"
-msgstr ""
+msgstr "Załączniki"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -68,7 +68,7 @@ msgstr "FILTRUJ"
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Home Menu"
-msgstr ""
+msgstr "Menu główne"
 
 #. module: web_responsive
 #. odoo-javascript
@@ -92,7 +92,7 @@ msgstr "Zminimalizuj"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr ""
+msgstr "Nowość"
 
 #. module: web_responsive
 #. odoo-javascript

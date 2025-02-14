@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* web_field_monetary_view_precision
+# * web_field_monetary_view_precision
 #
 msgid ""
 msgstr ""
@@ -27,8 +27,12 @@ msgstr "HTTP Yönlendirme"
 
 #. module: web_field_monetary_view_precision
 #: model:ir.model.fields,help:web_field_monetary_view_precision.field_res_currency__view_precision
-msgid "Number of digits after the decimal separator when displaying the value for monetary field. Default is account decimal precision."
-msgstr "Parasal alan için değer görüntülenirken ondalık ayırıcıdan sonraki basamak sayısı. Varsayılan, muhaasebe ondalık doğruluğudur."
+msgid ""
+"Number of digits after the decimal separator when displaying the value for "
+"monetary field. Default is account decimal precision."
+msgstr ""
+"Parasal alan için değer görüntülenirken ondalık ayırıcıdan sonraki basamak "
+"sayısı. Varsayılan, muhaasebe ondalık doğruluğudur."
 
 #. module: web_field_monetary_view_precision
 #: model:ir.model.fields,field_description:web_field_monetary_view_precision.field_res_currency__view_precision
@@ -39,4 +43,3 @@ msgstr "Görünüm Ondalık Doğruluğu"
 #: sql_constraint:res.currency:0
 msgid "View precision must be bigger or equal than zero"
 msgstr "Görünüm ondalık doğruluğu sıfır veya sıfırdan büyük olmalıdır"
-

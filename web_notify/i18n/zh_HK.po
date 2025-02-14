@@ -20,76 +20,76 @@ msgstr ""
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Danger"
-msgstr ""
+msgstr "危险"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_danger_channel_name
 msgid "Notify Danger Channel Name"
-msgstr ""
+msgstr "通知危险通道名称"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_default_channel_name
 msgid "Notify Default Channel Name"
-msgstr ""
+msgstr "通知默认通道名称"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_info_channel_name
 msgid "Notify Info Channel Name"
-msgstr ""
+msgstr "通知信息 渠道名称"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_success_channel_name
 msgid "Notify Success Channel Name"
-msgstr ""
+msgstr "通知成功渠道名称"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_warning_channel_name
 msgid "Notify Warning Channel Name"
-msgstr ""
+msgstr "通知警告通道名称"
 
 #. module: web_notify
 #. odoo-javascript
 #: code:addons/web_notify/static/src/js/services/notification_services.esm.js:0
 #, python-format
 msgid "Open"
-msgstr ""
+msgstr "开放"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Sending a notification to another user is forbidden."
-msgstr ""
+msgstr "禁止向其他用户发送通知。"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Success"
-msgstr ""
+msgstr "成功案例"
 
 #. module: web_notify
 #: model:ir.model,name:web_notify.model_res_users
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Warning"
-msgstr ""
+msgstr "警告"

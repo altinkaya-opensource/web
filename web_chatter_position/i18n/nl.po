@@ -23,12 +23,12 @@ msgstr "Onderkant"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Wijzigingen Wijzigingen"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Wijzigingssets"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__chatter_position
@@ -38,17 +38,17 @@ msgstr "Chatter-positie"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Tel Wijzigingen"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "In afwachting van wijzigingen tellen"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Aantal Wijzigingen"
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__auto
@@ -63,22 +63,22 @@ msgstr "Zijdelings"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Slim zoeken"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Het aantal lopende wijzigingen van deze record"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Het aantal hangende wijzigingssets van deze record"
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Het totale aantal wijzigingen van deze record"
 
 #. module: web_chatter_position
 #: model:ir.model,name:web_chatter_position.model_res_users
@@ -88,4 +88,4 @@ msgstr "Gebruiker"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Gebruiker kan wijzigingen zien"

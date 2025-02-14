@@ -185,7 +185,7 @@ msgstr "Forza rimuovi"
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option____last_update

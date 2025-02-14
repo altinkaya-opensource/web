@@ -92,7 +92,7 @@ msgstr "Minimiser"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #. module: web_responsive
 #. odoo-javascript

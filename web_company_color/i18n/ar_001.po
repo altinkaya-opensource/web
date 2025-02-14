@@ -22,26 +22,29 @@ msgid ""
 "                        In order for the changes to take effect, please refresh\n"
 "                        the page."
 msgstr ""
+"<span class=\"fa fa-info fa-2x me-2\"/>\n"
+"                        لكي تصبح التغييرات سارية المفعول، يرجى تحديث\n"
+"                        الصفحة."
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_bg
 msgid "Button Background Color"
-msgstr ""
+msgstr "لون خلفية الزر"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_bg_hover
 msgid "Button Background Color Hover"
-msgstr ""
+msgstr "تمرير لون خلفية الزر"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_text
 msgid "Button Text Color"
-msgstr ""
+msgstr "لون نص الزر"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Colors"
-msgstr ""
+msgstr "الألوان"
 
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_res_company
@@ -51,49 +54,49 @@ msgstr "الشركات"
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__company_colors
 msgid "Company Colors"
-msgstr ""
+msgstr "ألوان الشركة"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Company Styles"
-msgstr ""
+msgstr "أنماط الشركة"
 
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Compute colors from logo"
-msgstr ""
+msgstr "حساب الألوان من الشعار"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_link_text
 msgid "Link Text Color"
-msgstr ""
+msgstr "لون نص الرابط"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_link_text_hover
 msgid "Link Text Color Hover"
-msgstr ""
+msgstr "تمرير لون نص الرابط"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_bg
 msgid "Navbar Background Color"
-msgstr ""
+msgstr "لون خلفية شريط التنقل"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_bg_hover
 msgid "Navbar Background Color Hover"
-msgstr ""
+msgstr "تمرير لون خلفية شريط التنقل"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_text
 msgid "Navbar Text Color"
-msgstr ""
+msgstr "لون نص شريط التنقل"
 
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_ir_qweb
 msgid "Qweb"
-msgstr ""
+msgstr "Qweb"
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__scss_modif_timestamp
 msgid "SCSS Modif. Timestamp"
-msgstr ""
+msgstr "تعديل SCSS Modif. الطابع الزمني"

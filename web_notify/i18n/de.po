@@ -34,7 +34,7 @@ msgstr "Standard"
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Information"
-msgstr ""
+msgstr "Informationen"
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_danger_channel_name
@@ -66,7 +66,7 @@ msgstr "Name Warnungskanal Benachritigung"
 #: code:addons/web_notify/static/src/js/services/notification_services.esm.js:0
 #, python-format
 msgid "Open"
-msgstr ""
+msgstr "Öffnen Sie"
 
 #. module: web_notify
 #. odoo-python

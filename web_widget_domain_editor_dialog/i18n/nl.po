@@ -20,11 +20,11 @@ msgstr ""
 #: code:addons/web_widget_domain_editor_dialog/static/src/js/domain_field.esm.js:0
 #, python-format
 msgid "Select records..."
-msgstr ""
+msgstr "Selecteer records..."
 
 #. module: web_widget_domain_editor_dialog
 #. odoo-javascript
 #: code:addons/web_widget_domain_editor_dialog/static/src/js/domain_field.esm.js:0
 #, python-format
 msgid "Selected domain"
-msgstr ""
+msgstr "Geselecteerd domein"

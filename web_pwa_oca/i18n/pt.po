@@ -18,12 +18,12 @@ msgstr ""
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
-msgstr ""
+msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
 msgid "Background Color"
-msgstr ""
+msgstr "Cor de fundo"
 
 #. module: web_pwa_oca
 #: model:ir.model,name:web_pwa_oca.model_res_config_settings
@@ -33,42 +33,42 @@ msgstr "Configurações"
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_icon
 msgid "Icon"
-msgstr ""
+msgstr "Ícone"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name"
-msgstr ""
+msgstr "O seu nome"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name and icon of your PWA"
-msgstr ""
+msgstr "Nome e ícone do seu PWA"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_name
 msgid "Name of the Progressive Web Application"
-msgstr ""
+msgstr "Nome da Aplicação Web Progressiva"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "PWA Title"
-msgstr ""
+msgstr "Título do PWA"
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Progressive Web App"
-msgstr ""
+msgstr "Aplicação Web progressiva"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_name
 msgid "Progressive Web App Name"
-msgstr ""
+msgstr "Nome da aplicação Web progressiva"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_short_name
 msgid "Progressive Web App Short Name"
-msgstr ""
+msgstr "Nome curto da aplicação Web progressiva"
 
 #. module: web_pwa_oca
 #. odoo-javascript
@@ -78,53 +78,55 @@ msgid ""
 "Service workers are not supported! Maybe you are not using HTTPS or you work"
 " in private mode."
 msgstr ""
+"Os trabalhadores de serviços não são suportados! Talvez não esteja a "
+"utilizar HTTPS ou trabalhe em modo privado."
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Short Name"
-msgstr ""
+msgstr "Nome abreviado"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_short_name
 msgid "Short Name of the Progressive Web Application"
-msgstr ""
+msgstr "Nome curto da Aplicação Web Progressiva"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_theme_color
 msgid "Theme Color"
-msgstr ""
+msgstr "Cor do tema"
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload PNG files bigger than 512x512"
-msgstr ""
+msgstr "Só pode carregar ficheiros PNG com tamanho superior a 512x512"
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload SVG or PNG files. Found: %s."
-msgstr ""
+msgstr "Só pode carregar ficheiros SVG ou PNG. Encontrado: %s."
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can't upload a file with more than 2 MB."
-msgstr ""
+msgstr "Não pode carregar um ficheiro com mais de 2 MB."
 
 #. module: web_pwa_oca
 #. odoo-javascript
 #: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
 #, python-format
 msgid "[ServiceWorker] Registered:"
-msgstr ""
+msgstr "[ServiceWorker] Registado:"
 
 #. module: web_pwa_oca
 #. odoo-javascript
 #: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
 #, python-format
 msgid "[ServiceWorker] Registration failed: "
-msgstr ""
+msgstr "[ServiceWorker] O registo falhou: "

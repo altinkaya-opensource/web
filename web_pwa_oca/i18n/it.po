@@ -58,7 +58,7 @@ msgstr "Titolo PWA"
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Progressive Web App"
-msgstr ""
+msgstr "App Web progressiva"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_name

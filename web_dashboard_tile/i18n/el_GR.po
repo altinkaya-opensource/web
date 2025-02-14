@@ -18,128 +18,128 @@ msgstr ""
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__action_id
 msgid "Action"
-msgstr ""
+msgstr "Δράση"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__active
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__active
 msgid "Active"
-msgstr ""
+msgstr "Ενεργό"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 msgid "Archived"
-msgstr ""
+msgstr "Αρχειοθετημένο"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__avg
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__avg
 msgid "Average"
-msgstr ""
+msgstr "Μέσος όρος"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Average value of '%s'"
-msgstr ""
+msgstr "Μέση τιμή του '%s'"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__background_color
 msgid "Background Color"
-msgstr ""
+msgstr "Χρώμα φόντου"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__category_id
 msgid "Category"
-msgstr ""
+msgstr "Κατηγορία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Αλλαγές σετ αλλαγών"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__count
 msgid "Count"
-msgstr ""
+msgstr "Count"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Count Changesets"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Μετρήστε τις αλλαγές που εκκρεμούν"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Μετρήστε τα σύνολα αλλαγών που εκκρεμούν"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Δημιουργήθηκε από"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_date
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Δημιουργήθηκε στις"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_category
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_category
 msgid "Dashboard Categories"
-msgstr ""
+msgstr "Κατηγορίες ταμπλό"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_category_2_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_tile
 msgid "Dashboard Items"
-msgstr ""
+msgstr "Στοιχεία ταμπλό"
 
 #. module: web_dashboard_tile
 #: model:ir.model,name:web_dashboard_tile.model_tile_tile
 msgid "Dashboard Tile"
-msgstr ""
+msgstr "Πλακάκι ταμπλό"
 
 #. module: web_dashboard_tile
 #: model:ir.model,name:web_dashboard_tile.model_tile_category
 msgid "Dashboard Tile Category"
-msgstr ""
+msgstr "Κατηγορία πλακιδίων ταμπλό"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Display"
-msgstr ""
+msgstr "Εμφάνιση"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__display_name
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Όνομα εμφάνισης"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain
 msgid "Domain"
-msgstr ""
+msgstr "Τομέας"
 
 #. module: web_dashboard_tile
 #. odoo-python
@@ -147,45 +147,46 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain_error
 #, python-format
 msgid "Domain Error"
-msgstr ""
+msgstr "Σφάλμα τομέα"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Σφάλμα"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__font_color
 msgid "Font Color"
-msgstr ""
+msgstr "Χρώμα γραμματοσειράς"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__group_ids
 msgid "Groups"
-msgstr ""
+msgstr "Ομάδες"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__hidden
 msgid "Hidden"
-msgstr ""
+msgstr "Κρυφό"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "Hide if null"
-msgstr ""
+msgstr "Απόκρυψη εάν μηδέν"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__id
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "If checked, the item will be hidden if the primary value is null."
 msgstr ""
+"Εάν επιλεγεί, το στοιχείο θα αποκρύπτεται εάν η κύρια τιμή είναι μηδενική."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__group_ids
@@ -194,163 +195,168 @@ msgid ""
 "note that it will only work for global tiles (that is, when User field is "
 "left empty)"
 msgstr ""
+"Εάν αυτό το πεδίο έχει οριστεί, μόνο οι χρήστες αυτής της ομάδας μπορούν να "
+"δουν αυτό το πλακίδιο. Λάβετε υπόψη ότι αυτό θα λειτουργήσει μόνο για τα "
+"συνολικά πλακίδια (δηλαδή όταν το πεδίο Χρήστης παραμένει κενό)"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 msgid "Items"
-msgstr ""
+msgstr "Στοιχεία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category____last_update
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Τελευταία τροποποίηση στις"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_uid
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Τελευταία ενημέρωση από"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_date
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Τελευταία ενημέρωση στις"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__action_id
 msgid "Let empty to use the default action related to the selected model."
 msgstr ""
+"Αφήστε το κενό για να χρησιμοποιήσετε την προεπιλεγμένη ενέργεια που "
+"σχετίζεται με το επιλεγμένο μοντέλο."
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Main Value"
-msgstr ""
+msgstr "Κύρια αξία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__max
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__max
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Maximum value of '%s'"
-msgstr ""
+msgstr "Μέγιστη τιμή του '%s'"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__median
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__median
 msgid "Median"
-msgstr ""
+msgstr "Median"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Median value of '%s'"
-msgstr ""
+msgstr "Μέση τιμή της '%s'"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__min
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__min
 msgid "Minimum"
-msgstr ""
+msgstr "Ελάχιστο"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Minimum value of '%s'"
-msgstr ""
+msgstr "Ελάχιστη τιμή του '%s'"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_id
 msgid "Model"
-msgstr ""
+msgstr "Μοντέλο"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_name
 msgid "Model name"
-msgstr ""
+msgstr "Όνομα μοντέλου"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__name
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__name
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Number of records"
-msgstr ""
+msgstr "Αριθμός εγγραφών"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__action_id
 msgid "Odoo Action"
-msgstr ""
+msgstr "Δράση Odoo"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__menu_id
 msgid "Odoo Menu"
-msgstr ""
+msgstr "Μενού Odoo"
 
 #. module: web_dashboard_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_dashboard_tile
 msgid "Overview"
-msgstr ""
+msgstr "Επισκόπηση"
 
 #. module: web_dashboard_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_configuration
 msgid "Overview Settings"
-msgstr ""
+msgstr "Ρυθμίσεις επισκόπησης"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Please select a field from the selected model."
-msgstr ""
+msgstr "Παρακαλούμε επιλέξτε ένα πεδίο από το επιλεγμένο μοντέλο."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_error
 msgid "Primary Error"
-msgstr ""
+msgstr "Πρωταρχικό σφάλμα"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_field_id
 msgid "Primary Field"
-msgstr ""
+msgstr "Κύριος τομέας"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_format
 msgid "Primary Format"
-msgstr ""
+msgstr "Πρωτεύουσα μορφή"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_formated_value
 msgid "Primary Formated Value"
-msgstr ""
+msgstr "Πρωτογενής διαμορφωμένη αξία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_function
 msgid "Primary Function"
-msgstr ""
+msgstr "Πρωταρχική λειτουργία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_helper
 msgid "Primary Helper"
-msgstr ""
+msgstr "Βασικός βοηθός"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_value
 msgid "Primary Value"
-msgstr ""
+msgstr "Πρωταρχική αξία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__primary_format
@@ -359,111 +365,113 @@ msgid ""
 "Python Format String valid with str.format()\n"
 "ie: '{:,} Kgs' will output '1,000 Kgs' if value is 1000."
 msgstr ""
+"Python Format String valid with str.format()\n"
+"π.χ.: '{::,} Kgs' θα βγάλει '1,000 Kgs' αν η τιμή είναι 1000."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_error
 msgid "Secondary Error"
-msgstr ""
+msgstr "Δευτερεύον σφάλμα"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_field_id
 msgid "Secondary Field"
-msgstr ""
+msgstr "Δευτερεύον πεδίο"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_format
 msgid "Secondary Format"
-msgstr ""
+msgstr "Δευτερεύουσα μορφή"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_formated_value
 msgid "Secondary Formated Value"
-msgstr ""
+msgstr "Δευτερεύουσα διαμορφωμένη αξία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_function
 msgid "Secondary Function"
-msgstr ""
+msgstr "Δευτερεύουσα λειτουργία"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_helper
 msgid "Secondary Helper"
-msgstr ""
+msgstr "Δευτερεύων βοηθός"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_value
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Secondary Value"
-msgstr ""
+msgstr "Δευτερεύουσα αξία"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Security"
-msgstr ""
+msgstr "Ασφάλεια"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__sequence
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__sequence
 msgid "Sequence"
-msgstr ""
+msgstr "Ακολουθία"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Έξυπνη αναζήτηση"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__sum
 msgid "Sum"
-msgstr ""
+msgstr "Sum"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Technical Informations"
-msgstr ""
+msgstr "Τεχνικές πληροφορίες"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Ο αριθμός των εκκρεμών αλλαγών αυτής της εγγραφής"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Ο αριθμός των εκκρεμών συνόλων αλλαγών αυτής της εγγραφής"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Ο συνολικός αριθμός των αλλαγών αυτού του αρχείου"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_ids
 msgid "Tiles"
-msgstr ""
+msgstr "Πλακάκια"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_qty
 msgid "Tiles Quantity"
-msgstr ""
+msgstr "Πλακάκια Ποσότητα"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Total value of '%s'"
-msgstr ""
+msgstr "Συνολική αξία του '%s'"
 
 #. module: web_dashboard_tile
 #. odoo-python
@@ -471,14 +479,15 @@ msgstr ""
 #, python-format
 msgid "Unimplemented Feature. Search on Active field disabled."
 msgstr ""
+"Μη υλοποιημένο χαρακτηριστικό. Αναζήτηση στο πεδίο Active απενεργοποιημένη."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_id
 msgid "User"
-msgstr ""
+msgstr "Χρήστης"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Ο χρήστης μπορεί να δει το σύνολο αλλαγών"

@@ -18,7 +18,7 @@ msgstr ""
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__action_id
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__active
@@ -58,13 +58,13 @@ msgstr "Catégorie"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Changeset Changes"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changements"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
@@ -76,19 +76,19 @@ msgstr "Décompte"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Comptez les modifications"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Comptez les modifications en cours du jeu de modifications"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Comptez les jeux de modifications en attente"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
@@ -180,7 +180,7 @@ msgstr "Cacher si non défini"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__id
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__hide_if_null
@@ -238,7 +238,7 @@ msgstr "Valeur principale"
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__max
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__max
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 #. module: web_dashboard_tile
 #. odoo-python
@@ -264,7 +264,7 @@ msgstr "Valeur médiane du champ '%s'"
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__min
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__min
 msgid "Minimum"
-msgstr ""
+msgstr "Minimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
@@ -424,7 +424,7 @@ msgstr "Configuration"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Smart Search"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
@@ -442,19 +442,19 @@ msgstr "Informations techniques"
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Le nombre de modifications en attente de cet enregistrement"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Le nombre de jeux de modifications en attente pour cet enregistrement"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Le nombre total de modifications de cet enregistrement"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_ids
@@ -491,4 +491,4 @@ msgstr "Utilisateur"
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "L'utilisateur peut voir le jeu de modifications"

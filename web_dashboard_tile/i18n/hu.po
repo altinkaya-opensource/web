@@ -18,128 +18,128 @@ msgstr ""
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__action_id
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__active
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__active
 msgid "Active"
-msgstr ""
+msgstr "Aktív"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 msgid "Archived"
-msgstr ""
+msgstr "Archivált"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__avg
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__avg
 msgid "Average"
-msgstr ""
+msgstr "Átlagos"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Average value of '%s'"
-msgstr ""
+msgstr "A '%s' átlagos értéke"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__background_color
 msgid "Background Color"
-msgstr ""
+msgstr "Háttérszín"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__category_id
 msgid "Category"
-msgstr ""
+msgstr "Kategória"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Változáskészlet-változások"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__count
 msgid "Count"
-msgstr ""
+msgstr "Gróf"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Count Changesets"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Számolja a függőben lévő változtatáskészlet-változásokat"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Függő módosításkészletek számolása"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Készítette"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_date
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Készült a"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_category
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_category
 msgid "Dashboard Categories"
-msgstr ""
+msgstr "Dashboard kategóriák"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_category_2_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_tile
 msgid "Dashboard Items"
-msgstr ""
+msgstr "Műszerfal elemek"
 
 #. module: web_dashboard_tile
 #: model:ir.model,name:web_dashboard_tile.model_tile_tile
 msgid "Dashboard Tile"
-msgstr ""
+msgstr "Műszerfal csempe"
 
 #. module: web_dashboard_tile
 #: model:ir.model,name:web_dashboard_tile.model_tile_category
 msgid "Dashboard Tile Category"
-msgstr ""
+msgstr "Műszerfal csempe kategória"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Display"
-msgstr ""
+msgstr "Megjelenítés"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__display_name
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Megjelenített név"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain
 msgid "Domain"
-msgstr ""
+msgstr "Domain"
 
 #. module: web_dashboard_tile
 #. odoo-python
@@ -147,45 +147,46 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain_error
 #, python-format
 msgid "Domain Error"
-msgstr ""
+msgstr "Tartományi hiba"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Hiba"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__font_color
 msgid "Font Color"
-msgstr ""
+msgstr "Betűszín"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__group_ids
 msgid "Groups"
-msgstr ""
+msgstr "Csoportok"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__hidden
 msgid "Hidden"
-msgstr ""
+msgstr "Rejtett"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "Hide if null"
-msgstr ""
+msgstr "Elrejteni, ha nincs"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__id
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "If checked, the item will be hidden if the primary value is null."
 msgstr ""
+"Ha be van jelölve, az elem el lesz rejtve, ha az elsődleges érték nulla."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__group_ids
@@ -194,163 +195,168 @@ msgid ""
 "note that it will only work for global tiles (that is, when User field is "
 "left empty)"
 msgstr ""
+"Ha ez a mező be van állítva, akkor csak az adott csoport felhasználói "
+"láthatják ezt a lapkát. Felhívjuk figyelmét, hogy ez csak a globális csempék"
+" esetében működik (vagyis ha a Felhasználó mező üresen marad)."
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 msgid "Items"
-msgstr ""
+msgstr "Tételek"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category____last_update
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Utolsó módosítás:"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_uid
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Legutóbb frissítette"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_date
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Utolsó frissítés:"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__action_id
 msgid "Let empty to use the default action related to the selected model."
 msgstr ""
+"Engedje üresen használni a kiválasztott modellhez kapcsolódó alapértelmezett"
+" műveletet."
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Main Value"
-msgstr ""
+msgstr "Fő érték"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__max
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__max
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Maximum value of '%s'"
-msgstr ""
+msgstr "A '%s' maximális értéke"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__median
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__median
 msgid "Median"
-msgstr ""
+msgstr "Median"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Median value of '%s'"
-msgstr ""
+msgstr "A '%s' medián értéke"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__min
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__min
 msgid "Minimum"
-msgstr ""
+msgstr "Minimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Minimum value of '%s'"
-msgstr ""
+msgstr "A '%s' minimális értéke"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_id
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_name
 msgid "Model name"
-msgstr ""
+msgstr "Modell neve"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__name
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__name
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Number of records"
-msgstr ""
+msgstr "A rekordok száma"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__action_id
 msgid "Odoo Action"
-msgstr ""
+msgstr "Odoo Action"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__menu_id
 msgid "Odoo Menu"
-msgstr ""
+msgstr "Odoo menü"
 
 #. module: web_dashboard_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_dashboard_tile
 msgid "Overview"
-msgstr ""
+msgstr "Áttekintés"
 
 #. module: web_dashboard_tile
 #: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_configuration
 msgid "Overview Settings"
-msgstr ""
+msgstr "Áttekintés Beállítások"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Please select a field from the selected model."
-msgstr ""
+msgstr "Kérjük, válasszon egy mezőt a kiválasztott modellből."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_error
 msgid "Primary Error"
-msgstr ""
+msgstr "Elsődleges hiba"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_field_id
 msgid "Primary Field"
-msgstr ""
+msgstr "Elsődleges terület"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_format
 msgid "Primary Format"
-msgstr ""
+msgstr "Elsődleges formátum"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_formated_value
 msgid "Primary Formated Value"
-msgstr ""
+msgstr "Elsődleges formázott érték"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_function
 msgid "Primary Function"
-msgstr ""
+msgstr "Elsődleges funkció"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_helper
 msgid "Primary Helper"
-msgstr ""
+msgstr "Elsődleges segítő"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__primary_value
 msgid "Primary Value"
-msgstr ""
+msgstr "Elsődleges érték"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__primary_format
@@ -359,126 +365,128 @@ msgid ""
 "Python Format String valid with str.format()\n"
 "ie: '{:,} Kgs' will output '1,000 Kgs' if value is 1000."
 msgstr ""
+"Python Formátum String érvényes str.format() segítségével\n"
+"azaz: '{::,} Kgs' az '1,000 Kgs' értéket fogja kiadni, ha az érték 1000."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_error
 msgid "Secondary Error"
-msgstr ""
+msgstr "Másodlagos hiba"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_field_id
 msgid "Secondary Field"
-msgstr ""
+msgstr "Másodlagos terület"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_format
 msgid "Secondary Format"
-msgstr ""
+msgstr "Másodlagos formátum"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_formated_value
 msgid "Secondary Formated Value"
-msgstr ""
+msgstr "Másodlagos formázott érték"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_function
 msgid "Secondary Function"
-msgstr ""
+msgstr "Másodlagos funkció"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_helper
 msgid "Secondary Helper"
-msgstr ""
+msgstr "Másodlagos segítő"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_value
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Secondary Value"
-msgstr ""
+msgstr "Másodlagos érték"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Security"
-msgstr ""
+msgstr "Biztonság"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__sequence
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__sequence
 msgid "Sequence"
-msgstr ""
+msgstr "Sequence"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Intelligens keresés"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__sum
 msgid "Sum"
-msgstr ""
+msgstr "Sum"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Technical Informations"
-msgstr ""
+msgstr "Műszaki információk"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "A bejegyzés függőben lévő módosításainak száma"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "A rekord folyamatban lévő módosításainak száma"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Az e rekordhoz tartozó módosítások teljes száma"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_ids
 msgid "Tiles"
-msgstr ""
+msgstr "Csempe"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__tile_qty
 msgid "Tiles Quantity"
-msgstr ""
+msgstr "Csempék Mennyiség"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Total value of '%s'"
-msgstr ""
+msgstr "A \"%s\" teljes értéke"
 
 #. module: web_dashboard_tile
 #. odoo-python
 #: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Unimplemented Feature. Search on Active field disabled."
-msgstr ""
+msgstr "Nem megvalósított funkció. Keresés az Aktív mezőn letiltva."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_id
 msgid "User"
-msgstr ""
+msgstr "Felhasználó"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "A felhasználó láthatja a változtatáskészletet"

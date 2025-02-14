@@ -18,138 +18,138 @@ msgstr ""
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model,name:web_ir_actions_close_wizard_refresh_view.model_ir_actions_close_wizard_refresh_view
 msgid "Action Close Wizard Window Refresh View"
-msgstr ""
+msgstr "ウィザードウィンドウを閉じる 表示を更新"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
 msgid "Action Description"
-msgstr ""
+msgstr "作業内容"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__name
 msgid "Action Name"
-msgstr ""
+msgstr "アクション名"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__type
 msgid "Action Type"
-msgstr ""
+msgstr "アクションタイプ"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
 msgid "Binding Model"
-msgstr ""
+msgstr "結合モデル"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_type
 msgid "Binding Type"
-msgstr ""
+msgstr "製本タイプ"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_view_types
 msgid "Binding View Types"
-msgstr ""
+msgstr "バインディングビューの種類"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "チェンジセットの変更"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "チェンジセット"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "チェンジセット数"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "保留中のチェンジセットの変更をカウント"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "保留中のチェンジセットをカウント"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "作成者"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_date
 msgid "Created on"
-msgstr ""
+msgstr "作成日"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "表示名"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__xml_id
 msgid "External ID"
-msgstr ""
+msgstr "外部ID"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "最終更新日"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "最終更新者"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "最終更新日"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
 msgid ""
 "Optional help text for the users with a description of the target view, such"
 " as its usage and purpose."
-msgstr ""
+msgstr "オプションのヘルプテキストでは、ターゲットビューの使い方や目的などを説明します。"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
 msgid ""
 "Setting a value makes this action available in the sidebar for the given "
 "model."
-msgstr ""
+msgstr "値を設定すると、指定したモデルのサイドバーでこのアクションを利用できるようになります。"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "スマート検索"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "このレコードの保留中の変更数"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "このレコードの保留中のチェンジセットの数"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "このレコードの全体のチェンジセット数"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "ユーザーは変更セットを見ることができます"

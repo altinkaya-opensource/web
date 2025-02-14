@@ -19,31 +19,31 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__changeset_change_ids
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "变更集变更"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__changeset_ids
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "变更集"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_changesets
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "计数变更集"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "统计待处理的变更集变更"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_pending_changesets
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "统计待处理的变更集"
 
 #. module: web_dark_mode
 #. odoo-javascript
@@ -51,49 +51,49 @@ msgstr ""
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode
 #, python-format
 msgid "Dark Mode"
-msgstr ""
+msgstr "黑暗模式"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode_device_dependent
 msgid "Device Dependent Dark Mode"
-msgstr ""
+msgstr "取决于设备的黑暗模式"
 
 #. module: web_dark_mode
 #: model:ir.model,name:web_dark_mode.model_ir_http
 msgid "HTTP Routing"
-msgstr ""
+msgstr "HTTP 路由"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__smart_search
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "智能搜索"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_dark_mode.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "此记录的待更改次数"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_pending_changesets
 #: model:ir.model.fields,help:web_dark_mode.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "此记录的待处理更改集数量"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_changesets
 #: model:ir.model.fields,help:web_dark_mode.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "该记录的更改集总数"
 
 #. module: web_dark_mode
 #: model:ir.model,name:web_dark_mode.model_res_users
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "用户可查看变更集"

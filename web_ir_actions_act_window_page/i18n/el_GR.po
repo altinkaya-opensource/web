@@ -19,83 +19,86 @@ msgstr ""
 #: model:ir.model,name:web_ir_actions_act_window_page.model_ir_actions_act_window_page_next
 msgid "Action to page to the next record from a form view button"
 msgstr ""
+"Ενέργεια για τη μετάβαση στην επόμενη εγγραφή από ένα κουμπί προβολής φόρμας"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model,name:web_ir_actions_act_window_page.model_ir_actions_act_window_page_prev
 msgid "Action to page to the previous record from a form view button"
 msgstr ""
+"Ενέργεια για τη μετάβαση στην προηγούμενη εγγραφή από ένα κουμπί προβολής "
+"φόρμας"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model,name:web_ir_actions_act_window_page.model_ir_actions_act_window_page_list
 msgid "Action to switch to the list view"
-msgstr ""
+msgstr "Ενέργεια για να μεταβείτε στην προβολή λίστας"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__changeset_change_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__changeset_change_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Αλλαγές σετ αλλαγών"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__changeset_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__changeset_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Count Changesets"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Μετρήστε τις αλλαγές που εκκρεμούν"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Μετρήστε τα σύνολα αλλαγών που εκκρεμούν"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__smart_search
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__smart_search
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Έξυπνη αναζήτηση"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Ο αριθμός των εκκρεμών αλλαγών αυτής της εγγραφής"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Ο αριθμός των εκκρεμών συνόλων αλλαγών αυτής της εγγραφής"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Ο συνολικός αριθμός των αλλαγών αυτού του αρχείου"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Ο χρήστης μπορεί να δει το σύνολο αλλαγών"

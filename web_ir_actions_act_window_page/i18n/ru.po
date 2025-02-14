@@ -19,83 +19,84 @@ msgstr ""
 #: model:ir.model,name:web_ir_actions_act_window_page.model_ir_actions_act_window_page_next
 msgid "Action to page to the next record from a form view button"
 msgstr ""
+"Действие по переходу к следующей записи с помощью кнопки просмотра формы"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model,name:web_ir_actions_act_window_page.model_ir_actions_act_window_page_prev
 msgid "Action to page to the previous record from a form view button"
-msgstr ""
+msgstr "Действие по переходу к предыдущей записи из кнопки просмотра формы"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model,name:web_ir_actions_act_window_page.model_ir_actions_act_window_page_list
 msgid "Action to switch to the list view"
-msgstr ""
+msgstr "Действие для переключения в режим просмотра списка"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__changeset_change_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__changeset_change_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__changeset_change_ids
 msgid "Changeset Changes"
-msgstr ""
+msgstr "Набор изменений Изменения"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__changeset_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__changeset_ids
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__changeset_ids
 msgid "Changesets"
-msgstr ""
+msgstr "Наборы изменений"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_changesets
 msgid "Count Changesets"
-msgstr ""
+msgstr "Наборы изменений"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr ""
+msgstr "Подсчет ожидающих изменений набора изменений"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changesets
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr ""
+msgstr "Подсчет ожидающих изменений"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__smart_search
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__smart_search
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__smart_search
 msgid "Smart Search"
-msgstr ""
+msgstr "Умный поиск"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr ""
+msgstr "Количество ожидающих изменений этой записи"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_pending_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_pending_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr ""
+msgstr "Количество ожидающих изменений этой записи"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__count_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__count_changesets
 #: model:ir.model.fields,help:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr ""
+msgstr "Общее количество наборов изменений этой записи"
 
 #. module: web_ir_actions_act_window_page
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_list__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_next__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_page.field_ir_actions_act_window_page_prev__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr ""
+msgstr "Пользователь может видеть набор изменений"
