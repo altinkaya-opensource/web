@@ -1,0 +1,107 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_widget_image_webcam
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:22+0000\n"
+"PO-Revision-Date: 2025-02-11 19:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__changeset_change_ids
+msgid "Changeset Changes"
+msgstr "Αλλαγές σετ αλλαγών"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__changeset_ids
+msgid "Changesets"
+msgstr "Changesets"
+
+#. module: web_widget_image_webcam
+#. odoo-javascript
+#: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
+#, python-format
+msgid "Close"
+msgstr "Κλείστε το"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_changesets
+msgid "Count Changesets"
+msgstr "Count Changesets"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr "Μετρήστε τις αλλαγές που εκκρεμούν"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr "Μετρήστε τα σύνολα αλλαγών που εκκρεμούν"
+
+#. module: web_widget_image_webcam
+#. odoo-javascript
+#: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
+#, python-format
+msgid "Save & Close"
+msgstr "Αποθήκευση &amp; κλείσιμο"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__smart_search
+msgid "Smart Search"
+msgstr "Έξυπνη αναζήτηση"
+
+#. module: web_widget_image_webcam
+#: model:ir.model,name:web_widget_image_webcam.model_ir_config_parameter
+msgid "System Parameter"
+msgstr "Παράμετρος συστήματος"
+
+#. module: web_widget_image_webcam
+#. odoo-javascript
+#: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
+#, python-format
+msgid "Take Snapshot"
+msgstr "Στιγμιότυπο"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr "Ο αριθμός των εκκρεμών αλλαγών αυτής της εγγραφής"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr "Ο αριθμός των εκκρεμών συνόλων αλλαγών αυτής της εγγραφής"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr "Ο συνολικός αριθμός των αλλαγών αυτού του αρχείου"
+
+#. module: web_widget_image_webcam
+#: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr "Ο χρήστης μπορεί να δει το σύνολο αλλαγών"
+
+#. module: web_widget_image_webcam
+#. odoo-javascript
+#: code:addons/web_widget_image_webcam/static/src/xml/web_widget_image_webcam.xml:0
+#: code:addons/web_widget_image_webcam/static/src/xml/web_widget_image_webcam.xml:0
+#, python-format
+msgid "WebCam"
+msgstr "WebCam"
+
+#. module: web_widget_image_webcam
+#. odoo-javascript
+#: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
+#, python-format
+msgid "WebCam Booth"
+msgstr "Περίπτερο WebCam"

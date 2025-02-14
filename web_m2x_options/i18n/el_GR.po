@@ -1,0 +1,117 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_m2x_options
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:16+0000\n"
+"PO-Revision-Date: 2025-02-11 19:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid ", are you sure it does not exist yet?"
+msgstr ", είστε σίγουροι ότι δεν υπάρχει ακόμη;"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "Create"
+msgstr "Δημιουργία"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Create \"%s\""
+msgstr "Δημιουργία \"%s\""
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "Create and Edit"
+msgstr "Δημιουργία και επεξεργασία"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Create and edit..."
+msgstr "Δημιουργία και επεξεργασία..."
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "Discard"
+msgstr "Απόρριψη"
+
+#. module: web_m2x_options
+#: model:ir.model,name:web_m2x_options.model_ir_http
+msgid "HTTP Routing"
+msgstr "Δρομολόγηση HTTP"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/form.esm.js:0
+#, python-format
+msgid "New: %s"
+msgstr "Νέο: %s"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "No records"
+msgstr "Δεν υπάρχουν αρχεία"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/form.esm.js:0
+#, python-format
+msgid "Open: "
+msgstr "Ανοίξτε: "
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Search More..."
+msgstr "Αναζήτηση Περισσότερα..."
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Start typing..."
+msgstr "Ξεκινήστε να πληκτρολογείτε..."
+
+#. module: web_m2x_options
+#: model:ir.model,name:web_m2x_options.model_ir_config_parameter
+msgid "System Parameter"
+msgstr "Παράμετρος συστήματος"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "You are creating a new"
+msgstr "Δημιουργείτε ένα νέο"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "as a new"
+msgstr "ως νέα"

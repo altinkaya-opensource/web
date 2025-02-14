@@ -6,6 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:12+0000\n"
+"PO-Revision-Date: 2025-02-11 19:12+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -24,6 +26,46 @@ msgstr ""
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_true
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_true
 msgid "Add"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__changeset_change_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__changeset_change_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__changeset_change_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__changeset_change_ids
+msgid "Changeset Changes"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__changeset_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__changeset_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__changeset_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__changeset_ids
+msgid "Changesets"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_changesets
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__count_changesets
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_changesets
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_changesets
+msgid "Count Changesets"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_pending_changeset_changes
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__count_pending_changeset_changes
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_pending_changeset_changes
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_pending_changesets
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__count_pending_changesets
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_pending_changesets
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changesets
+msgid "Count Pending Changesets"
 msgstr ""
 
 #. module: web_m2x_options_manager
@@ -190,6 +232,46 @@ msgstr ""
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_false
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_false
 msgid "Remove"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__smart_search
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__smart_search
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__smart_search
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__smart_search
+msgid "Smart Search"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_pending_changeset_changes
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model_fields__count_pending_changeset_changes
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_pending_changeset_changes
+#: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_pending_changesets
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model_fields__count_pending_changesets
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_pending_changesets
+#: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_changesets
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model_fields__count_changesets
+#: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_changesets
+#: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr ""
+
+#. module: web_m2x_options_manager
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__user_can_see_changeset
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model_fields__user_can_see_changeset
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__user_can_see_changeset
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__user_can_see_changeset
+msgid "User Can See Changeset"
 msgstr ""
 
 #. module: web_m2x_options_manager

@@ -1,90 +1,87 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * web_m2x_options
+# 	* web_m2x_options
 #
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-03 03:50+0000\n"
-"PO-Revision-Date: 2018-01-03 03:50+0000\n"
-"Last-Translator: OCA Transbot <transbot@odoo-community.org>, 2017\n"
-"Language-Team: Turkish (https://www.transifex.com/oca/teams/23907/tr/)\n"
-"Language: tr\n"
+"POT-Creation-Date: 2025-02-11 19:16+0000\n"
+"PO-Revision-Date: 2025-02-11 19:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: \n"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid ", are you sure it does not exist yet?"
-msgstr ""
+msgstr "Henüz var olmadığından emin misiniz?"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create"
-msgstr ""
+msgstr "Oluştur"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr ""
+msgstr "\"%s\" oluşturun"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create and Edit"
-msgstr ""
+msgstr "Oluştur ve Düzenle"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create and edit..."
-msgstr ""
+msgstr "Oluşturma ve düzenleme..."
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr ""
+msgstr "Iskarta"
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
 msgid "HTTP Routing"
-msgstr ""
+msgstr "HTTP Yönlendirme"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr ""
+msgstr "Yeni: %s"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr ""
+msgstr "Kayıt yok"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "Open: "
-msgstr ""
+msgstr "Açık: "
 
 #. module: web_m2x_options
 #. odoo-javascript
@@ -98,35 +95,23 @@ msgstr "Daha Fazla..."
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr ""
+msgstr "Yazmaya başlayın..."
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
 msgid "System Parameter"
-msgstr ""
+msgstr "Sistem Parametresi"
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "You are creating a new"
-msgstr ""
+msgstr "Yeni bir ERP sistemi oluşturuyorsunuz."
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr ""
-
-#, python-format
-#~ msgid "Cancel"
-#~ msgstr "İptal"
-
-#, python-format
-#~ msgid "Create \"<strong>%s</strong>\""
-#~ msgstr "Oluştur \"<strong>%s</strong>\""
-
-#, python-format
-#~ msgid "Create and Edit..."
-#~ msgstr "Oluştur ve düzenle..."
+msgstr "yeni bir"

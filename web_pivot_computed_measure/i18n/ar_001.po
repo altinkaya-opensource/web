@@ -1,0 +1,210 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_pivot_computed_measure
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:23+0000\n"
+"PO-Revision-Date: 2025-02-11 19:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Add"
+msgstr "إضافة"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Can be empty"
+msgstr "يمكن أن تكون فارغة"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Computed Measure"
+msgstr "القياس المحسوب"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Custom"
+msgstr "مخصص"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Div (m1 / m2)"
+msgstr "القسم (م1/م2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Float"
+msgstr "تعويم"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Format"
+msgstr "التنسيق"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Formula"
+msgstr "الصيغة"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Integer"
+msgstr "إنتيجر"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Measure 1"
+msgstr "التدبير 1"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Measure 2"
+msgstr "التدبير 2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Mult (m1 * m2)"
+msgstr "متعدد (م1 * م2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Name"
+msgstr "الاسم"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Operation"
+msgstr "التشغيل"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Perc (m1 * 100 / m2)"
+msgstr "بيرك (م1*100/م2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Percentage"
+msgstr "النسبة المئوية"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Sub (m1 - m2)"
+msgstr "الفرعية (م1 - م2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Sum (m1 + m2)"
+msgstr "مجموع (م1 + م2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/pivot/pivot_model.esm.js:0
+#, python-format
+msgid ""
+"This measure is currently used by a 'computed measure'. Please, disable the "
+"computed measure first."
+msgstr ""
+"يتم استخدام هذا المقياس حاليًا بواسطة \"مقياس محسوب\". يرجى تعطيل المقياس "
+"المحسوب أولاً."
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "custom"
+msgstr "مخصص"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "float"
+msgstr "تعويم"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "integer"
+msgstr "العدد الصحيح"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "m1*m2"
+msgstr "م1*م2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "m1+m2"
+msgstr "م1+م2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "m1-m2"
+msgstr "م1-م2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "m1/m2"
+msgstr "م1/م2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "percentage"
+msgstr "النسبة المئوية"

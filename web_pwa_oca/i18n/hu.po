@@ -1,0 +1,132 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_pwa_oca
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:21+0000\n"
+"PO-Revision-Date: 2025-02-11 19:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_pwa_oca
+#: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
+msgid "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
+msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
+msgid "Background Color"
+msgstr "Háttérszín"
+
+#. module: web_pwa_oca
+#: model:ir.model,name:web_pwa_oca.model_res_config_settings
+msgid "Config Settings"
+msgstr "Beállítások módosítása"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_icon
+msgid "Icon"
+msgstr "Icon"
+
+#. module: web_pwa_oca
+#: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
+msgid "Name"
+msgstr "Név"
+
+#. module: web_pwa_oca
+#: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
+msgid "Name and icon of your PWA"
+msgstr "A PWA neve és ikonja"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_name
+msgid "Name of the Progressive Web Application"
+msgstr "A progresszív webes alkalmazás neve"
+
+#. module: web_pwa_oca
+#: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
+msgid "PWA Title"
+msgstr "PWA cím"
+
+#. module: web_pwa_oca
+#: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
+msgid "Progressive Web App"
+msgstr "Progresszív webes alkalmazás"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_name
+msgid "Progressive Web App Name"
+msgstr "Progresszív webes alkalmazás neve"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_short_name
+msgid "Progressive Web App Short Name"
+msgstr "Progresszív webes alkalmazás rövid neve"
+
+#. module: web_pwa_oca
+#. odoo-javascript
+#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
+#, python-format
+msgid ""
+"Service workers are not supported! Maybe you are not using HTTPS or you work"
+" in private mode."
+msgstr ""
+"A szervizmunkásokat nem támogatjuk! Lehet, hogy nem használ HTTPS-t, vagy "
+"privát üzemmódban dolgozik."
+
+#. module: web_pwa_oca
+#: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
+msgid "Short Name"
+msgstr "Rövid név"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_short_name
+msgid "Short Name of the Progressive Web Application"
+msgstr "A progresszív webes alkalmazás rövid neve"
+
+#. module: web_pwa_oca
+#: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_theme_color
+msgid "Theme Color"
+msgstr "Téma színe"
+
+#. module: web_pwa_oca
+#. odoo-python
+#: code:addons/web_pwa_oca/models/res_config_settings.py:0
+#, python-format
+msgid "You can only upload PNG files bigger than 512x512"
+msgstr "Csak 512x512-nél nagyobb PNG fájlokat tölthet fel."
+
+#. module: web_pwa_oca
+#. odoo-python
+#: code:addons/web_pwa_oca/models/res_config_settings.py:0
+#, python-format
+msgid "You can only upload SVG or PNG files. Found: %s."
+msgstr "Csak SVG vagy PNG fájlokat tölthet fel. Megtaláltuk: %s."
+
+#. module: web_pwa_oca
+#. odoo-python
+#: code:addons/web_pwa_oca/models/res_config_settings.py:0
+#, python-format
+msgid "You can't upload a file with more than 2 MB."
+msgstr "Nem tölthet fel 2 MB-nál nagyobb méretű fájlt."
+
+#. module: web_pwa_oca
+#. odoo-javascript
+#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
+#, python-format
+msgid "[ServiceWorker] Registered:"
+msgstr "[ServiceWorker] Regisztrált:"
+
+#. module: web_pwa_oca
+#. odoo-javascript
+#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
+#, python-format
+msgid "[ServiceWorker] Registration failed: "
+msgstr "[ServiceWorker] A regisztráció sikertelen: "

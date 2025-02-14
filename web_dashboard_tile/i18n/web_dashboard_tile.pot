@@ -6,6 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:17+0000\n"
+"PO-Revision-Date: 2025-02-11 19:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -53,9 +55,39 @@ msgid "Category"
 msgstr ""
 
 #. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_change_ids
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_change_ids
+msgid "Changeset Changes"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__changeset_ids
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__changeset_ids
+msgid "Changesets"
+msgstr ""
+
+#. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__count
 msgid "Count"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_changesets
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_changesets
+msgid "Count Changesets"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__count_pending_changesets
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__count_pending_changesets
+msgid "Count Pending Changesets"
 msgstr ""
 
 #. module: web_dashboard_tile
@@ -381,6 +413,12 @@ msgid "Settings"
 msgstr ""
 
 #. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__smart_search
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__smart_search
+msgid "Smart Search"
+msgstr ""
+
+#. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__sum
 msgid "Sum"
@@ -390,6 +428,24 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Technical Informations"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changeset_changes
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_pending_changesets
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_category__count_changesets
+#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__count_changesets
+msgid "The overall number of changesets of this record"
 msgstr ""
 
 #. module: web_dashboard_tile
@@ -419,4 +475,10 @@ msgstr ""
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_id
 msgid "User"
+msgstr ""
+
+#. module: web_dashboard_tile
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__user_can_see_changeset
+#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_can_see_changeset
+msgid "User Can See Changeset"
 msgstr ""

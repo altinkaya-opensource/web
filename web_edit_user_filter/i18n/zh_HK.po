@@ -1,0 +1,97 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_edit_user_filter
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:19+0000\n"
+"PO-Revision-Date: 2025-02-11 19:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
+#, python-format
+msgid "A filter with same name already exists."
+msgstr "已有同名过滤器。"
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
+#, python-format
+msgid "A name for your favorite filter is required."
+msgstr "需要为您最喜欢的过滤器命名。"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_change_ids
+msgid "Changeset Changes"
+msgstr "变更集变更"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_ids
+msgid "Changesets"
+msgstr "变更集"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_changesets
+msgid "Count Changesets"
+msgstr "计数变更集"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr "统计待处理的变更集变更"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr "统计待处理的变更集"
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/searchBar.esm.js:0
+#, python-format
+msgid "Edit Filters <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
+msgstr "编辑过滤器<a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__facet
+msgid "Facet"
+msgstr "面"
+
+#. module: web_edit_user_filter
+#: model:ir.model,name:web_edit_user_filter.model_ir_filters
+msgid "Filters"
+msgstr "过滤器"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__smart_search
+msgid "Smart Search"
+msgstr "智能搜索"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr "此记录的待更改次数"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr "此记录的待处理更改集数量"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr "该记录的更改集总数"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr "用户可查看变更集"

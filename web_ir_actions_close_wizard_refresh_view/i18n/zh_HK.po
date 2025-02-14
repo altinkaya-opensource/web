@@ -1,0 +1,155 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_ir_actions_close_wizard_refresh_view
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:18+0000\n"
+"PO-Revision-Date: 2025-02-11 19:18+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model,name:web_ir_actions_close_wizard_refresh_view.model_ir_actions_close_wizard_refresh_view
+msgid "Action Close Wizard Window Refresh View"
+msgstr "操作 关闭向导窗口 刷新视图"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
+msgid "Action Description"
+msgstr "行动描述"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__name
+msgid "Action Name"
+msgstr "行动名称"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__type
+msgid "Action Type"
+msgstr "行动类型"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
+msgid "Binding Model"
+msgstr "装订模型"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_type
+msgid "Binding Type"
+msgstr "装订类型"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_view_types
+msgid "Binding View Types"
+msgstr "装订视图类型"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_change_ids
+msgid "Changeset Changes"
+msgstr "变更集变更"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__changeset_ids
+msgid "Changesets"
+msgstr "变更集"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
+msgid "Count Changesets"
+msgstr "计数变更集"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr "统计待处理的变更集变更"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr "统计待处理的变更集"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_uid
+msgid "Created by"
+msgstr "创建者"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__create_date
+msgid "Created on"
+msgstr "创建于"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__xml_id
+msgid "External ID"
+msgstr "外部 ID"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__id
+msgid "ID"
+msgstr "ID"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view____last_update
+msgid "Last Modified on"
+msgstr "最后修改日期"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_uid
+msgid "Last Updated by"
+msgstr "最后更新"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_date
+msgid "Last Updated on"
+msgstr "最后更新日期"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__help
+msgid ""
+"Optional help text for the users with a description of the target view, such"
+" as its usage and purpose."
+msgstr "为用户提供可选的帮助文本，说明目标视图的用途和目的等。"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
+msgid ""
+"Setting a value makes this action available in the sidebar for the given "
+"model."
+msgstr "设置值可使该操作在给定型号的侧边栏中可用。"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__smart_search
+msgid "Smart Search"
+msgstr "智能搜索"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr "此记录的待更改次数"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr "此记录的待处理更改集数量"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr "该记录的更改集总数"
+
+#. module: web_ir_actions_close_wizard_refresh_view
+#: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr "用户可查看变更集"

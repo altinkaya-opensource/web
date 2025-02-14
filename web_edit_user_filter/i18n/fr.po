@@ -1,27 +1,67 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* web_edit_user_filter
+# 	* web_edit_user_filter
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 12.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2020-10-06 12:38+0000\n"
-"Last-Translator: Yann Papouin <y.papouin@dec-industrie.com>\n"
-"Language-Team: none\n"
-"Language: fr\n"
+"POT-Creation-Date: 2025-02-11 19:19+0000\n"
+"PO-Revision-Date: 2025-02-11 19:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.10\n"
+"Plural-Forms: \n"
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/js/backend.js:189
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
-msgid "Edit Facet"
-msgstr "Modifier la facette"
+msgid "A filter with same name already exists."
+msgstr "Un filtre portant le même nom existe déjà."
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
+#, python-format
+msgid "A name for your favorite filter is required."
+msgstr "Un nom pour votre filtre préféré est requis."
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_change_ids
+msgid "Changeset Changes"
+msgstr "Changeset Changes"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_ids
+msgid "Changesets"
+msgstr "Changements"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_changesets
+msgid "Count Changesets"
+msgstr "Comptez les modifications"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr "Comptez les modifications en cours du jeu de modifications"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr "Comptez les jeux de modifications en attente"
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/searchBar.esm.js:0
+#, python-format
+msgid "Edit Filters <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
+msgstr ""
+"Modifier les filtres <a href=\"#\" class=\"close\" data-"
+"dismiss=\"alert\">&times;</a>"
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__facet
@@ -32,3 +72,28 @@ msgstr "Facette"
 #: model:ir.model,name:web_edit_user_filter.model_ir_filters
 msgid "Filters"
 msgstr "Filtres"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__smart_search
+msgid "Smart Search"
+msgstr "Smart Search"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr "Le nombre de modifications en attente de cet enregistrement"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr "Le nombre de jeux de modifications en attente pour cet enregistrement"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr "Le nombre total de modifications de cet enregistrement"
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr "L'utilisateur peut voir le jeu de modifications"

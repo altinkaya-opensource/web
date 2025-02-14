@@ -1,0 +1,99 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_dark_mode
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:17+0000\n"
+"PO-Revision-Date: 2025-02-11 19:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__changeset_change_ids
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__changeset_change_ids
+msgid "Changeset Changes"
+msgstr "Változáskészlet-változások"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__changeset_ids
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__changeset_ids
+msgid "Changesets"
+msgstr "Changesets"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_changesets
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_changesets
+msgid "Count Changesets"
+msgstr "Count Changesets"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_pending_changeset_changes
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr "Számolja a függőben lévő változtatáskészlet-változásokat"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__count_pending_changesets
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr "Függő módosításkészletek számolása"
+
+#. module: web_dark_mode
+#. odoo-javascript
+#: code:addons/web_dark_mode/static/src/js/switch_item.esm.js:0
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode
+#, python-format
+msgid "Dark Mode"
+msgstr "Sötét üzemmód"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode_device_dependent
+msgid "Device Dependent Dark Mode"
+msgstr "Eszközfüggő sötét mód"
+
+#. module: web_dark_mode
+#: model:ir.model,name:web_dark_mode.model_ir_http
+msgid "HTTP Routing"
+msgstr "HTTP irányítás"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__smart_search
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__smart_search
+msgid "Smart Search"
+msgstr "Intelligens keresés"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_pending_changeset_changes
+#: model:ir.model.fields,help:web_dark_mode.field_res_users__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr "A bejegyzés függőben lévő módosításainak száma"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_pending_changesets
+#: model:ir.model.fields,help:web_dark_mode.field_res_users__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr "A rekord folyamatban lévő módosításainak száma"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,help:web_dark_mode.field_ir_http__count_changesets
+#: model:ir.model.fields,help:web_dark_mode.field_res_users__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr "Az e rekordhoz tartozó módosítások teljes száma"
+
+#. module: web_dark_mode
+#: model:ir.model,name:web_dark_mode.model_res_users
+msgid "User"
+msgstr "Felhasználó"
+
+#. module: web_dark_mode
+#: model:ir.model.fields,field_description:web_dark_mode.field_ir_http__user_can_see_changeset
+#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr "A felhasználó láthatja a változtatáskészletet"

@@ -4,8 +4,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 14.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-11 19:19+0000\n"
+"PO-Revision-Date: 2025-02-11 19:19+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -14,20 +16,47 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/js/backend.js:0
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
+#, python-format
+msgid "A filter with same name already exists."
+msgstr ""
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A name for your favorite filter is required."
 msgstr ""
 
 #. module: web_edit_user_filter
-#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__display_name
-msgid "Display Name"
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_change_ids
+msgid "Changeset Changes"
 msgstr ""
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/js/backend.js:0
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_ids
+msgid "Changesets"
+msgstr ""
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_changesets
+msgid "Count Changesets"
+msgstr ""
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr ""
+
+#. module: web_edit_user_filter
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr ""
+
+#. module: web_edit_user_filter
+#. odoo-javascript
+#: code:addons/web_edit_user_filter/static/src/js/searchBar.esm.js:0
 #, python-format
 msgid "Edit Filters <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
 msgstr ""
@@ -38,47 +67,31 @@ msgid "Facet"
 msgstr ""
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/js/backend.js:0
-#, python-format
-msgid "Filter with same name already exists."
-msgstr ""
-
-#. module: web_edit_user_filter
 #: model:ir.model,name:web_edit_user_filter.model_ir_filters
 msgid "Filters"
 msgstr ""
 
 #. module: web_edit_user_filter
-#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__id
-msgid "ID"
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__smart_search
+msgid "Smart Search"
 msgstr ""
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/js/backend.js:0
-#, python-format
-msgid ""
-"In order to edit newly added 'Favorite filters, you need to refresh the page first. \n"
-" Kindly refresh the page and try again."
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
 msgstr ""
 
 #. module: web_edit_user_filter
-#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters____last_update
-msgid "Last Modified on"
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changesets
+msgid "The number of pending changesets of this record"
 msgstr ""
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/xml/search_extended.xml:0
-#: code:addons/web_edit_user_filter/static/src/xml/search_extended.xml:0
-#, python-format
-msgid "Remove"
+#: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_changesets
+msgid "The overall number of changesets of this record"
 msgstr ""
 
 #. module: web_edit_user_filter
-#. openerp-web
-#: code:addons/web_edit_user_filter/static/src/xml/search_extended.xml:0
-#, python-format
-msgid "search"
+#: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__user_can_see_changeset
+msgid "User Can See Changeset"
 msgstr ""

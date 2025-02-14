@@ -1,34 +1,71 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * web_environment_ribbon
+# 	* web_environment_ribbon
 #
-# Translators:
-# OCA Transbot <transbot@odoo-community.org>, 2017
-# Quentin THEURET <odoo@kerpeo.com>, 2017
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 10.0\n"
+"Project-Id-Version: Odoo Server 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-26 02:44+0000\n"
-"PO-Revision-Date: 2017-07-26 02:44+0000\n"
-"Last-Translator: Quentin THEURET <odoo@kerpeo.com>, 2017\n"
-"Language-Team: French (https://www.transifex.com/oca/teams/23907/fr/)\n"
-"Language: fr\n"
+"POT-Creation-Date: 2025-02-11 19:14+0000\n"
+"PO-Revision-Date: 2025-02-11 19:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: \n"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__changeset_change_ids
+msgid "Changeset Changes"
+msgstr "Changeset Changes"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__changeset_ids
+msgid "Changesets"
+msgstr "Changements"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__count_changesets
+msgid "Count Changesets"
+msgstr "Comptez les modifications"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__count_pending_changeset_changes
+msgid "Count Pending Changeset Changes"
+msgstr "Comptez les modifications en cours du jeu de modifications"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__count_pending_changesets
+msgid "Count Pending Changesets"
+msgstr "Comptez les jeux de modifications en attente"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__smart_search
+msgid "Smart Search"
+msgstr "Smart Search"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,help:web_environment_ribbon.field_web_environment_ribbon_backend__count_pending_changeset_changes
+msgid "The number of pending changes of this record"
+msgstr "Le nombre de modifications en attente de cet enregistrement"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,help:web_environment_ribbon.field_web_environment_ribbon_backend__count_pending_changesets
+msgid "The number of pending changesets of this record"
+msgstr "Le nombre de jeux de modifications en attente pour cet enregistrement"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,help:web_environment_ribbon.field_web_environment_ribbon_backend__count_changesets
+msgid "The overall number of changesets of this record"
+msgstr "Le nombre total de modifications de cet enregistrement"
+
+#. module: web_environment_ribbon
+#: model:ir.model.fields,field_description:web_environment_ribbon.field_web_environment_ribbon_backend__user_can_see_changeset
+msgid "User Can See Changeset"
+msgstr "L'utilisateur peut voir le jeu de modifications"
 
 #. module: web_environment_ribbon
 #: model:ir.model,name:web_environment_ribbon.model_web_environment_ribbon_backend
 msgid "Web Environment Ribbon Backend"
 msgstr "Backend du bandeau de l'environnement Web"
-
-#~ msgid "Display Name"
-#~ msgstr "Nom affiché"
-
-#~ msgid "ID"
-#~ msgstr "ID"
-
-#~ msgid "Last Modified on"
-#~ msgstr "Dernière modification le"
