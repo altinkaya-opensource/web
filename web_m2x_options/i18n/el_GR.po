@@ -20,98 +20,98 @@ msgstr ""
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid ", are you sure it does not exist yet?"
-msgstr ", είστε σίγουροι ότι δεν υπάρχει ακόμη;"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create"
-msgstr "Δημιουργία"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr "Δημιουργία \"%s\""
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create and Edit"
-msgstr "Δημιουργία και επεξεργασία"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create and edit..."
-msgstr "Δημιουργία και επεξεργασία..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Απόρριψη"
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
 msgid "HTTP Routing"
-msgstr "Δρομολόγηση HTTP"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr "Νέο: %s"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr "Δεν υπάρχουν αρχεία"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "Open: "
-msgstr "Ανοίξτε: "
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Search More..."
-msgstr "Αναζήτηση Περισσότερα..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr "Ξεκινήστε να πληκτρολογείτε..."
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
 msgid "System Parameter"
-msgstr "Παράμετρος συστήματος"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "You are creating a new"
-msgstr "Δημιουργείτε ένα νέο"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr "ως νέα"
+msgstr ""

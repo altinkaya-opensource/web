@@ -18,74 +18,74 @@ msgstr ""
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__bottom
 msgid "Bottom"
-msgstr "底部"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "变更集变更"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr "变更集"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__chatter_position
 msgid "Chatter Position"
-msgstr "Chatter 职位"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr "计数变更集"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "统计待处理的变更集变更"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "统计待处理的变更集"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__auto
 msgid "Responsive"
-msgstr "响应"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__sided
 msgid "Sided"
-msgstr "侧面"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__smart_search
 msgid "Smart Search"
-msgstr "智能搜索"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "此记录的待更改次数"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "此记录的待处理更改集数量"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "该记录的更改集总数"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model,name:web_chatter_position.model_res_users
 msgid "User"
-msgstr "用户"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "用户可查看变更集"
+msgstr ""

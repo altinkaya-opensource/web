@@ -20,13 +20,13 @@ msgstr ""
 #: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py:0
 #, python-format
 msgid "'%(field_name)s' is not a valid field for model '%(model_name)s'!"
-msgstr "%(field_name)s' is geen geldig veld voor model \"%(model_name)s\"!"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_true
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_true
 msgid "Add"
-msgstr "toevoegen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__changeset_change_ids
@@ -34,7 +34,7 @@ msgstr "toevoegen"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__changeset_change_ids
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Wijzigingen Wijzigingen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__changeset_ids
@@ -42,7 +42,7 @@ msgstr "Wijzigingen Wijzigingen"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__changeset_ids
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__changeset_ids
 msgid "Changesets"
-msgstr "Wijzigingssets"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_changesets
@@ -50,7 +50,7 @@ msgstr "Wijzigingssets"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_changesets
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_changesets
 msgid "Count Changesets"
-msgstr "Tel Wijzigingen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_pending_changeset_changes
@@ -58,7 +58,7 @@ msgstr "Tel Wijzigingen"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_pending_changeset_changes
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "In afwachting van wijzigingen tellen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__count_pending_changesets
@@ -66,37 +66,37 @@ msgstr "In afwachting van wijzigingen tellen"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__count_pending_changesets
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Aantal Wijzigingen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit
 msgid "Create & Edit Option"
-msgstr "Optie voor maken en bewerken"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit_wizard
 msgid "Create & Edit Wizard"
-msgstr "Wizard Aanmaken &amp; Bewerken"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create
 msgid "Create Option"
-msgstr "Optie creëren"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model_terms:ir.ui.view,arch_db:web_m2x_options_manager.view_model_form_inherit
 msgid "Create/Edit Options"
-msgstr "Opties voor maken/bewerken"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__create_uid
 msgid "Created by"
-msgstr "Gemaakt door"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__create_date
 msgid "Created on"
-msgstr "Gemaakt op"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit_wizard
@@ -104,8 +104,6 @@ msgid ""
 "Defines behaviour for 'Create & Edit' Wizard\n"
 "Set to False to prevent 'Create & Edit' Wizard to pop up"
 msgstr ""
-"Definieert het gedrag voor de wizard \"Maken &amp; Bewerken\n"
-"Instellen op False om te voorkomen dat de wizard \"Maken &amp; Bewerken\" verschijnt"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit
@@ -115,10 +113,6 @@ msgid ""
 "* Add/Remove: option 'Create & Edit' is set to True/False only if not already present in view definition\n"
 "* Force Add/Remove: option 'Create & Edit' is always set to True/False, overriding any pre-existing option"
 msgstr ""
-"Definieert het gedrag voor de optie \"Maken &amp; Bewerken\":\n"
-"* Niets doen: er wordt niets gedaan\n"
-"* Toevoegen/Verwijderen: optie 'Aanmaken &amp; Bewerken' wordt alleen op Waar/Onwaar gezet als deze nog niet aanwezig is in de weergavedefinitie\n"
-"* Forceer toevoegen/verwijderen: optie 'Aanmaken &amp; bewerken' wordt altijd ingesteld op Waar/onwaar, en overschrijft elke reeds bestaande optie."
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create
@@ -128,36 +122,32 @@ msgid ""
 "* Add/Remove: option 'Create' is set to True/False only if not already present in view definition\n"
 "* Force Add/Remove: option 'Create' is always set to True/False, overriding any pre-existing option"
 msgstr ""
-"Definieert het gedrag voor de optie \"Aanmaken\":\n"
-"* Niets doen: er wordt niets gedaan\n"
-"* Toevoegen/Verwijderen: optie 'Aanmaken' wordt alleen op Waar/Onwaar gezet als deze nog niet aanwezig is in de weergavedefinitie\n"
-"* Forceer toevoegen/verwijderen: optie 'Aanmaken' wordt altijd ingesteld op Waar/Onwaar, en overruled elke reeds bestaande optie."
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__display_name
 msgid "Display Name"
-msgstr "Naam weergeven"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__none
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__none
 msgid "Do nothing"
-msgstr "Niets doen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model_terms:ir.ui.view,arch_db:web_m2x_options_manager.view_model_form_inherit
 msgid "Empty"
-msgstr "Leeg"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__field_id
 msgid "Field"
-msgstr "Buitendienst"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__field_name
 msgid "Field Name"
-msgstr "Veldnaam"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_model_fields
@@ -167,59 +157,59 @@ msgstr "Velden"
 #. module: web_m2x_options_manager
 #: model_terms:ir.ui.view,arch_db:web_m2x_options_manager.view_model_form_inherit
 msgid "Fill"
-msgstr "Vul"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__force_true
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__force_true
 msgid "Force Add"
-msgstr "Kracht toevoegen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__force_false
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__force_false
 msgid "Force Remove"
-msgstr "Forceer Verwijderen"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option____last_update
 msgid "Last Modified on"
-msgstr "Laatst gewijzigd op"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_uid
 msgid "Last Updated by"
-msgstr "Laatst bijgewerkt door"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_date
 msgid "Last Updated on"
-msgstr "Laatst bijgewerkt op"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__m2x_create_edit_option_ids
 msgid "M2X Create Edit Option"
-msgstr "M2X Creëer Bewerk Optie"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_m2x_create_edit_option
 msgid "Manage Options 'Create/Edit' For Fields"
-msgstr "Beheer opties 'Maken/Bewerken' voor velden"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__model_id
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__model_name
 msgid "Model Name"
-msgstr "Modelnaam"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_model
@@ -231,18 +221,18 @@ msgstr "Modellen"
 #: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py:0
 #, python-format
 msgid "Only Many2many and Many2one fields can be chosen!"
-msgstr "Alleen de velden Many2many en Many2one kunnen worden gekozen!"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.constraint,message:web_m2x_options_manager.constraint_m2x_create_edit_option_model_field_uniqueness
 msgid "Options must be unique for each model/field couple!"
-msgstr "Opties moeten uniek zijn voor elk model/veldpaar!"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_false
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_false
 msgid "Remove"
-msgstr "Verwijder"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__smart_search
@@ -250,7 +240,7 @@ msgstr "Verwijder"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__smart_search
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__smart_search
 msgid "Smart Search"
-msgstr "Slim zoeken"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_pending_changeset_changes
@@ -258,7 +248,7 @@ msgstr "Slim zoeken"
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_pending_changeset_changes
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "Het aantal lopende wijzigingen van deze record"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_pending_changesets
@@ -266,7 +256,7 @@ msgstr "Het aantal lopende wijzigingen van deze record"
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_pending_changesets
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "Het aantal hangende wijzigingssets van deze record"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_model__count_changesets
@@ -274,7 +264,7 @@ msgstr "Het aantal hangende wijzigingssets van deze record"
 #: model:ir.model.fields,help:web_m2x_options_manager.field_ir_ui_view__count_changesets
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "Het totale aantal wijzigingen van deze record"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__user_can_see_changeset
@@ -282,7 +272,7 @@ msgstr "Het totale aantal wijzigingen van deze record"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_ui_view__user_can_see_changeset
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "Gebruiker kan wijzigingen zien"
+msgstr ""
 
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_ui_view

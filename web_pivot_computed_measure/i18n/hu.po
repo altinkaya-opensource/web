@@ -20,126 +20,126 @@ msgstr ""
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Add"
-msgstr "Hozzáadás:"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Can be empty"
-msgstr "Lehet üres"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Computed Measure"
-msgstr "Számított intézkedés"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Custom"
-msgstr "Egyedi"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Div (m1 / m2)"
-msgstr "Div (m1 / m2)"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Float"
-msgstr "Lebegtetés"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Format"
-msgstr "Formátum"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Formula"
-msgstr "Formula"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Integer"
-msgstr "Integer"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Measure 1"
-msgstr "1. intézkedés"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Measure 2"
-msgstr "2. intézkedés"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Mult (m1 * m2)"
-msgstr "Mult (m1 * m2)"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Name"
-msgstr "Név"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Operation"
-msgstr "Művelet"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Perc (m1 * 100 / m2)"
-msgstr "Perc (m1 * 100 / m2)"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Percentage"
-msgstr "Százalék"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Sub (m1 - m2)"
-msgstr "Rész (m1 - m2)"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "Sum (m1 + m2)"
-msgstr "Összeg (m1 + m2)"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
@@ -149,50 +149,48 @@ msgid ""
 "This measure is currently used by a 'computed measure'. Please, disable the "
 "computed measure first."
 msgstr ""
-"Ezt az intézkedést jelenleg egy \"számított intézkedés\" használja. Kérjük, "
-"először tiltsa le a számított intézkedést."
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "custom"
-msgstr "egyedi"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "float"
-msgstr "float"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "integer"
-msgstr "egész szám"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "m1*m2"
-msgstr "m1*m2"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "m1+m2"
-msgstr "m1+m2"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "m1-m2"
-msgstr "m1-m2"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
@@ -200,11 +198,11 @@ msgstr "m1-m2"
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "m1/m2"
-msgstr "m1/m2"
+msgstr ""
 
 #. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 #, python-format
 msgid "percentage"
-msgstr "százalékos arány"
+msgstr ""

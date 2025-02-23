@@ -20,67 +20,67 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Add"
-msgstr "追加"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Custom period"
-msgstr "カスタム期間"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Day"
-msgstr "日"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Month"
-msgstr "月"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Week"
-msgstr "週間"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Year"
-msgstr "年"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "day"
-msgstr "日"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "month"
-msgstr "月"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "week"
-msgstr "週"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "year"
-msgstr "年"
+msgstr ""

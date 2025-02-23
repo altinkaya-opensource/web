@@ -20,67 +20,67 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Add"
-msgstr "Hozzáadás:"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Custom period"
-msgstr "Egyedi időszak"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Day"
-msgstr "Nap"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Month"
-msgstr "Hónap"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Week"
-msgstr "Hét"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Year"
-msgstr "Év"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "day"
-msgstr "nap"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "month"
-msgstr "hónap"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "week"
-msgstr "hét"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "year"
-msgstr "év"
+msgstr ""

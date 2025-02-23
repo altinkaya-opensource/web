@@ -20,67 +20,67 @@ msgstr ""
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Danger"
-msgstr "الخطر"
+msgstr ""
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Default"
-msgstr "الافتراضي"
+msgstr ""
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Information"
-msgstr "المعلومات"
+msgstr ""
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_danger_channel_name
 msgid "Notify Danger Channel Name"
-msgstr "إخطار اسم قناة الخطر"
+msgstr ""
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_default_channel_name
 msgid "Notify Default Channel Name"
-msgstr "إعلام اسم القناة الافتراضي"
+msgstr ""
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_info_channel_name
 msgid "Notify Info Channel Name"
-msgstr "إخطار اسم قناة المعلومات"
+msgstr ""
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_success_channel_name
 msgid "Notify Success Channel Name"
-msgstr "إخطار اسم قناة النجاح"
+msgstr ""
 
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_warning_channel_name
 msgid "Notify Warning Channel Name"
-msgstr "إخطار اسم قناة التحذير"
+msgstr ""
 
 #. module: web_notify
 #. odoo-javascript
 #: code:addons/web_notify/static/src/js/services/notification_services.esm.js:0
 #, python-format
 msgid "Open"
-msgstr "مفتوح"
+msgstr ""
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Sending a notification to another user is forbidden."
-msgstr "يحظر إرسال إشعار إلى مستخدم آخر."
+msgstr ""
 
 #. module: web_notify
 #. odoo-python
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Success"
-msgstr "النجاح"
+msgstr ""
 
 #. module: web_notify
 #: model:ir.model,name:web_notify.model_res_users
@@ -92,4 +92,4 @@ msgstr "المستخدم"
 #: code:addons/web_notify/models/res_users.py:0
 #, python-format
 msgid "Warning"
-msgstr "تحذير"
+msgstr ""

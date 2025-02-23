@@ -20,78 +20,78 @@ msgstr ""
 #: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A filter with same name already exists."
-msgstr "Er bestaat al een filter met dezelfde naam."
+msgstr ""
 
 #. module: web_edit_user_filter
 #. odoo-javascript
 #: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A name for your favorite filter is required."
-msgstr "Een naam voor uw favoriete filter is vereist."
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Wijzigingen Wijzigingen"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_ids
 msgid "Changesets"
-msgstr "Wijzigingssets"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_changesets
 msgid "Count Changesets"
-msgstr "Tel Wijzigingen"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "In afwachting van wijzigingen tellen"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Aantal Wijzigingen"
+msgstr ""
 
 #. module: web_edit_user_filter
 #. odoo-javascript
 #: code:addons/web_edit_user_filter/static/src/js/searchBar.esm.js:0
 #, python-format
 msgid "Edit Filters <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
-msgstr "Filters bewerken <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__facet
 msgid "Facet"
-msgstr "Facet"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model,name:web_edit_user_filter.model_ir_filters
 msgid "Filters"
-msgstr "Filters"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__smart_search
 msgid "Smart Search"
-msgstr "Slim zoeken"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "Het aantal lopende wijzigingen van deze record"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "Het aantal hangende wijzigingssets van deze record"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "Het totale aantal wijzigingen van deze record"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "Gebruiker kan wijzigingen zien"
+msgstr ""

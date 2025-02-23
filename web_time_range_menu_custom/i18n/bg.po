@@ -20,67 +20,67 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Add"
-msgstr "Добавете"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Custom period"
-msgstr "Период по поръчка"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Day"
-msgstr "Ден"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Month"
-msgstr "Месец"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Week"
-msgstr "Седмица"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Year"
-msgstr "Година"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "day"
-msgstr "ден"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "month"
-msgstr "месец"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "week"
-msgstr "седмица"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "year"
-msgstr "година"
+msgstr ""

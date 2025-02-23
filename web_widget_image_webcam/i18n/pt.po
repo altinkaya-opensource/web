@@ -18,46 +18,46 @@ msgstr ""
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Alterações do conjunto de alterações"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__changeset_ids
 msgid "Changesets"
-msgstr "Conjunto de alterações"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "Close"
-msgstr "Fechar"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_changesets
 msgid "Count Changesets"
-msgstr "Contagem de conjuntos de alterações"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "Conte as alterações pendentes do conjunto de alterações"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Conte os conjuntos de alterações pendentes"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "Save & Close"
-msgstr "Guardar e fechar"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__smart_search
 msgid "Smart Search"
-msgstr "Pesquisa inteligente"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model,name:web_widget_image_webcam.model_ir_config_parameter
@@ -69,27 +69,27 @@ msgstr "Parâmetro de Sistema"
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "Take Snapshot"
-msgstr "Tire uma fotografia"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "O número de alterações pendentes deste registo"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "O número de conjuntos de alterações pendentes deste registo"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "O número total de conjuntos de alterações deste registo"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "O utilizador pode ver o conjunto de alterações"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
@@ -97,11 +97,11 @@ msgstr "O utilizador pode ver o conjunto de alterações"
 #: code:addons/web_widget_image_webcam/static/src/xml/web_widget_image_webcam.xml:0
 #, python-format
 msgid "WebCam"
-msgstr "WebCam"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "WebCam Booth"
-msgstr "Stand da WebCam"
+msgstr ""

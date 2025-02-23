@@ -20,98 +20,98 @@ msgstr ""
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid ", are you sure it does not exist yet?"
-msgstr "您确定它还不存在吗？"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create"
-msgstr "创建"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr "创建\"%s"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create and Edit"
-msgstr "创建和编辑"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create and edit..."
-msgstr "创建和编辑..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr "废弃物"
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
 msgid "HTTP Routing"
-msgstr "HTTP 路由"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr "新内容：%s"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr "无记录"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "Open: "
-msgstr "开放： "
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Search More..."
-msgstr "搜索更多..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr "开始输入..."
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
 msgid "System Parameter"
-msgstr "系统参数"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "You are creating a new"
-msgstr "您正在创建一个新的"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr "作为一个新的"
+msgstr ""

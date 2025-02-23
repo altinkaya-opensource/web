@@ -20,7 +20,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "All"
-msgstr "Όλα"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -28,7 +28,7 @@ msgstr "Όλα"
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachment counter loading..."
-msgstr "Φόρτωση μετρητή συνημμένων..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr "Φόρτωση μετρητή συνημμένων..."
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachments"
-msgstr "Συνημμένα αρχεία"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -44,7 +44,7 @@ msgstr "Συνημμένα αρχεία"
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "CLEAR"
-msgstr "CLEAR"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -52,7 +52,7 @@ msgstr "CLEAR"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Απόρριψη"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -61,14 +61,14 @@ msgstr "Απόρριψη"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "FILTER"
-msgstr "ΦΙΛΤΡΟ"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Home Menu"
-msgstr "Αρχικό μενού"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -76,7 +76,7 @@ msgstr "Αρχικό μενού"
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Maximize"
-msgstr "Μεγιστοποίηση του"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -84,7 +84,7 @@ msgstr "Μεγιστοποίηση του"
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Minimize"
-msgstr "Ελαχιστοποίηση του"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -92,7 +92,7 @@ msgstr "Ελαχιστοποίηση του"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr "Νέο"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -101,7 +101,7 @@ msgstr "Νέο"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "SEE RESULT"
-msgstr "ΔΕΙΤΕ ΤΟ ΑΠΟΤΕΛΕΣΜΑ"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -109,14 +109,14 @@ msgstr "ΔΕΙΤΕ ΤΟ ΑΠΟΤΕΛΕΣΜΑ"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Save"
-msgstr "Αποθήκευση"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Search menus..."
-msgstr "Μενού αναζήτησης..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -124,11 +124,11 @@ msgstr "Μενού αναζήτησης..."
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "Search..."
-msgstr "Αναζήτηση..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "View switcher"
-msgstr "Προβολή διακόπτη"
+msgstr ""

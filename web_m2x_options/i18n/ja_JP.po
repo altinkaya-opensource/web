@@ -20,42 +20,42 @@ msgstr ""
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid ", are you sure it does not exist yet?"
-msgstr "本当にまだ存在しないのですか？"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create"
-msgstr "作成"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr "\"%s \"を作成します。"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create and Edit"
-msgstr "作成と編集"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create and edit..."
-msgstr "作成・編集..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr "破棄"
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
@@ -67,35 +67,35 @@ msgstr "HTTPルーティング"
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr "新規: %s"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr "記録なし"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "Open: "
-msgstr "オープン "
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Search More..."
-msgstr "詳細を検索..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr "入力開始..."
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
@@ -107,11 +107,11 @@ msgstr "システムパラメタ"
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "You are creating a new"
-msgstr "新しい"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr "新しい"
+msgstr ""

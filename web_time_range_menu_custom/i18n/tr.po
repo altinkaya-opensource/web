@@ -20,67 +20,67 @@ msgstr ""
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Add"
-msgstr "Eklemek"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Custom period"
-msgstr "Özel dönem"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Day"
-msgstr "Gün"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Month"
-msgstr "Ay"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Week"
-msgstr "Hafta"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "Year"
-msgstr "Yıl"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "day"
-msgstr "gün"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "month"
-msgstr "ay"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "week"
-msgstr "hafta"
+msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
 #: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
 #, python-format
 msgid "year"
-msgstr "yıl"
+msgstr ""

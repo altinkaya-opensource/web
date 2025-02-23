@@ -18,14 +18,14 @@ msgstr ""
 #. module: web_disable_export_group
 #: model:ir.model,name:web_disable_export_group.model_base
 msgid "Base"
-msgstr "Base"
+msgstr ""
 
 #. module: web_disable_export_group
 #: model:res.groups,name:web_disable_export_group.group_export_xlsx_data
 msgid "Direct Export (xlsx)"
-msgstr "Direct Export (xlsx)"
+msgstr ""
 
 #. module: web_disable_export_group
 #: model:ir.model,name:web_disable_export_group.model_ir_http
 msgid "HTTP Routing"
-msgstr "HTTP Routing"
+msgstr ""

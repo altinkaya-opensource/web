@@ -18,57 +18,57 @@ msgstr ""
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
-msgstr "<span class=\"fa fa-lg fa-globe\" title=\"Icon next to name\"/>"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_background_color
 msgid "Background Color"
-msgstr "Background Color"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model,name:web_pwa_oca.model_res_config_settings
 msgid "Config Settings"
-msgstr "Config Settings"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_icon
 msgid "Icon"
-msgstr "Icon"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Name and icon of your PWA"
-msgstr "Name and icon of your PWA"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_name
 msgid "Name of the Progressive Web Application"
-msgstr "Name of the Progressive Web Application"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "PWA Title"
-msgstr "PWA Title"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Progressive Web App"
-msgstr "Progressive Web App"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_name
 msgid "Progressive Web App Name"
-msgstr "Progressive Web App Name"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_short_name
 msgid "Progressive Web App Short Name"
-msgstr "Progressive Web App Short Name"
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-javascript
@@ -78,55 +78,53 @@ msgid ""
 "Service workers are not supported! Maybe you are not using HTTPS or you work"
 " in private mode."
 msgstr ""
-"Service workers are not supported! Maybe you are not using HTTPS or you work"
-" in private mode."
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
 msgid "Short Name"
-msgstr "Short Name"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,help:web_pwa_oca.field_res_config_settings__pwa_short_name
 msgid "Short Name of the Progressive Web Application"
-msgstr "Short Name of the Progressive Web Application"
+msgstr ""
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_theme_color
 msgid "Theme Color"
-msgstr "Theme Color"
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload PNG files bigger than 512x512"
-msgstr "You can only upload PNG files bigger than 512x512"
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can only upload SVG or PNG files. Found: %s."
-msgstr "You can only upload SVG or PNG files. Found: %s."
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-python
 #: code:addons/web_pwa_oca/models/res_config_settings.py:0
 #, python-format
 msgid "You can't upload a file with more than 2 MB."
-msgstr "You can't upload a file with more than 2 MB."
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-javascript
 #: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
 #, python-format
 msgid "[ServiceWorker] Registered:"
-msgstr "[ServiceWorker] Registered:"
+msgstr ""
 
 #. module: web_pwa_oca
 #. odoo-javascript
 #: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
 #, python-format
 msgid "[ServiceWorker] Registration failed: "
-msgstr "[ServiceWorker] Registration failed: "
+msgstr ""

@@ -18,67 +18,67 @@ msgstr ""
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__bottom
 msgid "Bottom"
-msgstr "Bottom"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Αλλαγές σετ αλλαγών"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__changeset_ids
 msgid "Changesets"
-msgstr "Changesets"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__chatter_position
 msgid "Chatter Position"
-msgstr "Θέση Chatter"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_changesets
 msgid "Count Changesets"
-msgstr "Count Changesets"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "Μετρήστε τις αλλαγές που εκκρεμούν"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Μετρήστε τα σύνολα αλλαγών που εκκρεμούν"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__auto
 msgid "Responsive"
-msgstr "Responsive"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__sided
 msgid "Sided"
-msgstr "Sided"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__smart_search
 msgid "Smart Search"
-msgstr "Έξυπνη αναζήτηση"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "Ο αριθμός των εκκρεμών αλλαγών αυτής της εγγραφής"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "Ο αριθμός των εκκρεμών συνόλων αλλαγών αυτής της εγγραφής"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model.fields,help:web_chatter_position.field_res_users__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "Ο συνολικός αριθμός των αλλαγών αυτού του αρχείου"
+msgstr ""
 
 #. module: web_chatter_position
 #: model:ir.model,name:web_chatter_position.model_res_users
@@ -88,4 +88,4 @@ msgstr "Χρήστης"
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "Ο χρήστης μπορεί να δει το σύνολο αλλαγών"
+msgstr ""

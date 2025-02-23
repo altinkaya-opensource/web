@@ -18,46 +18,46 @@ msgstr ""
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "チェンジセットの変更"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__changeset_ids
 msgid "Changesets"
-msgstr "チェンジセット"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "Close"
-msgstr "閉じる"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_changesets
 msgid "Count Changesets"
-msgstr "チェンジセット数"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "保留中のチェンジセットの変更をカウント"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "保留中のチェンジセットをカウント"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "Save & Close"
-msgstr "保存して閉じる"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__smart_search
 msgid "Smart Search"
-msgstr "スマート検索"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model,name:web_widget_image_webcam.model_ir_config_parameter
@@ -69,27 +69,27 @@ msgstr "システムパラメタ"
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "Take Snapshot"
-msgstr "スナップショットを見る"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "このレコードの保留中の変更数"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "このレコードの保留中のチェンジセットの数"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,help:web_widget_image_webcam.field_ir_config_parameter__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "このレコードの全体のチェンジセット数"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #: model:ir.model.fields,field_description:web_widget_image_webcam.field_ir_config_parameter__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "ユーザーは変更セットを見ることができます"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
@@ -97,11 +97,11 @@ msgstr "ユーザーは変更セットを見ることができます"
 #: code:addons/web_widget_image_webcam/static/src/xml/web_widget_image_webcam.xml:0
 #, python-format
 msgid "WebCam"
-msgstr "WebCam"
+msgstr ""
 
 #. module: web_widget_image_webcam
 #. odoo-javascript
 #: code:addons/web_widget_image_webcam/static/src/js/webcam_widget.js:0
 #, python-format
 msgid "WebCam Booth"
-msgstr "ウェブカムブース"
+msgstr ""

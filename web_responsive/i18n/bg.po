@@ -20,7 +20,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "All"
-msgstr "Всички"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -28,7 +28,7 @@ msgstr "Всички"
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachment counter loading..."
-msgstr "Зареждане на брояча за прикачване..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr "Зареждане на брояча за прикачване..."
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachments"
-msgstr "Приложения"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -44,7 +44,7 @@ msgstr "Приложения"
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "CLEAR"
-msgstr "CLEAR"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -52,7 +52,7 @@ msgstr "CLEAR"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Изхвърляне"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -61,14 +61,14 @@ msgstr "Изхвърляне"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "FILTER"
-msgstr "ФИЛТЪР"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Home Menu"
-msgstr "Начално меню"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -76,7 +76,7 @@ msgstr "Начално меню"
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Maximize"
-msgstr "Увеличете до максимум"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -84,7 +84,7 @@ msgstr "Увеличете до максимум"
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Minimize"
-msgstr "Намалете до минимум"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -92,7 +92,7 @@ msgstr "Намалете до минимум"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr "Нов"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -101,7 +101,7 @@ msgstr "Нов"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "SEE RESULT"
-msgstr "ВИЖТЕ РЕЗУЛТАТА"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -109,14 +109,14 @@ msgstr "ВИЖТЕ РЕЗУЛТАТА"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Save"
-msgstr "Запазете"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Search menus..."
-msgstr "Търсене на менюта..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -124,11 +124,11 @@ msgstr "Търсене на менюта..."
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "Search..."
-msgstr "Търсене..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "View switcher"
-msgstr "Преглед на превключвателя"
+msgstr ""

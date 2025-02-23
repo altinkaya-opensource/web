@@ -20,42 +20,42 @@ msgstr ""
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid ", are you sure it does not exist yet?"
-msgstr ", biztos, hogy még nem létezik?"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create"
-msgstr "Hozzon létre"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr "Create \"%s\""
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Create and Edit"
-msgstr "Létrehozás és szerkesztés"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create and edit..."
-msgstr "Létrehozza és szerkeszti..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Dobja ki a"
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
@@ -67,35 +67,35 @@ msgstr "HTTP irányítás"
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr "Új: %s"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr "Nincsenek rekordok"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "Open: "
-msgstr "Nyitva: "
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Search More..."
-msgstr "Keresés Bővebben..."
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr "Kezdje el gépelni..."
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
@@ -107,11 +107,11 @@ msgstr "Rendszer paraméter"
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "You are creating a new"
-msgstr "Ön egy új"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr "mint új"
+msgstr ""

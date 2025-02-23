@@ -20,51 +20,51 @@ msgstr ""
 #: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A filter with same name already exists."
-msgstr "يوجد بالفعل مرشح بنفس الاسم."
+msgstr ""
 
 #. module: web_edit_user_filter
 #. odoo-javascript
 #: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A name for your favorite filter is required."
-msgstr "مطلوب اسم للمرشح المفضل لديك."
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "تغييرات مجموعة التغييرات"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_ids
 msgid "Changesets"
-msgstr "مجموعات التغييرات"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_changesets
 msgid "Count Changesets"
-msgstr "عدد التغييرات"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "عدد تغييرات مجموعة التغييرات المعلقة"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "عدد مجموعات التغييرات المعلقة"
+msgstr ""
 
 #. module: web_edit_user_filter
 #. odoo-javascript
 #: code:addons/web_edit_user_filter/static/src/js/searchBar.esm.js:0
 #, python-format
 msgid "Edit Filters <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
-msgstr "تحرير المرشحات <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__facet
 msgid "Facet"
-msgstr "الواجهة"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model,name:web_edit_user_filter.model_ir_filters
@@ -74,24 +74,24 @@ msgstr "عوامل التصفية "
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__smart_search
 msgid "Smart Search"
-msgstr "البحث الذكي"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "عدد التغييرات المعلقة لهذا السجل"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "عدد مجموعات التغييرات المعلقة لهذا السجل"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "العدد الإجمالي للتغييرات في هذا السجل"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "يمكن للمستخدم الاطلاع على مجموعة التغييرات"
+msgstr ""

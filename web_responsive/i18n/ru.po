@@ -28,7 +28,7 @@ msgstr "Все"
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachment counter loading..."
-msgstr "Загрузка счетчика вложений..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr "Загрузка счетчика вложений..."
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachments"
-msgstr "Вложения"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -68,7 +68,7 @@ msgstr "Фильтр"
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Home Menu"
-msgstr "Главное меню"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -92,7 +92,7 @@ msgstr "Уменьшить"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr "Новый"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript

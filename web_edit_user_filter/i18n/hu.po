@@ -20,39 +20,39 @@ msgstr ""
 #: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A filter with same name already exists."
-msgstr "Egy azonos nevű szűrő már létezik."
+msgstr ""
 
 #. module: web_edit_user_filter
 #. odoo-javascript
 #: code:addons/web_edit_user_filter/static/src/js/customFavorite.esm.js:0
 #, python-format
 msgid "A name for your favorite filter is required."
-msgstr "A kedvenc szűrő nevére van szükség."
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_change_ids
 msgid "Changeset Changes"
-msgstr "Változáskészlet-változások"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__changeset_ids
 msgid "Changesets"
-msgstr "Changesets"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_changesets
 msgid "Count Changesets"
-msgstr "Count Changesets"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
 msgid "Count Pending Changeset Changes"
-msgstr "Számolja a függőben lévő változtatáskészlet-változásokat"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__count_pending_changesets
 msgid "Count Pending Changesets"
-msgstr "Függő módosításkészletek számolása"
+msgstr ""
 
 #. module: web_edit_user_filter
 #. odoo-javascript
@@ -60,13 +60,11 @@ msgstr "Függő módosításkészletek számolása"
 #, python-format
 msgid "Edit Filters <a href=\"#\" class=\"close\" data-dismiss=\"alert\">&times;</a>"
 msgstr ""
-"Szűrők szerkesztése <a href=\"#\" class=\"close\" data-"
-"dismiss=\"alert\">&times;</a>"
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__facet
 msgid "Facet"
-msgstr "Facet"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model,name:web_edit_user_filter.model_ir_filters
@@ -76,24 +74,24 @@ msgstr "Szűrők"
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__smart_search
 msgid "Smart Search"
-msgstr "Intelligens keresés"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changeset_changes
 msgid "The number of pending changes of this record"
-msgstr "A bejegyzés függőben lévő módosításainak száma"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_pending_changesets
 msgid "The number of pending changesets of this record"
-msgstr "A rekord folyamatban lévő módosításainak száma"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,help:web_edit_user_filter.field_ir_filters__count_changesets
 msgid "The overall number of changesets of this record"
-msgstr "Az e rekordhoz tartozó módosítások teljes száma"
+msgstr ""
 
 #. module: web_edit_user_filter
 #: model:ir.model.fields,field_description:web_edit_user_filter.field_ir_filters__user_can_see_changeset
 msgid "User Can See Changeset"
-msgstr "A felhasználó láthatja a változtatáskészletet"
+msgstr ""

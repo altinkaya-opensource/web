@@ -34,7 +34,7 @@ msgstr "Créer"
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Create \"%s\""
-msgstr "Créez \"%s\""
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
@@ -55,7 +55,7 @@ msgstr "Créer et modifier..."
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Jeter"
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_http
@@ -67,14 +67,14 @@ msgstr "Routage HTTP"
 #: code:addons/web_m2x_options/static/src/components/form.esm.js:0
 #, python-format
 msgid "New: %s"
-msgstr "Nouveau : %s"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "No records"
-msgstr "Aucun document"
+msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
@@ -95,7 +95,7 @@ msgstr "Rechercher plus..."
 #: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
 #, python-format
 msgid "Start typing..."
-msgstr "Commencez à taper..."
+msgstr ""
 
 #. module: web_m2x_options
 #: model:ir.model,name:web_m2x_options.model_ir_config_parameter
@@ -114,4 +114,4 @@ msgstr "Vous créez un nouveau"
 #: code:addons/web_m2x_options/static/src/components/base.xml:0
 #, python-format
 msgid "as a new"
-msgstr "en tant que nouveau"
+msgstr ""

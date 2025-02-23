@@ -28,4 +28,4 @@ msgstr "Actualiser"
 #: code:addons/web_refresher/static/src/xml/refresher.xml:0
 #, python-format
 msgid "Refresher"
-msgstr "Remise à niveau"
+msgstr ""

@@ -20,7 +20,7 @@ msgstr ""
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "All"
-msgstr "All"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -28,7 +28,7 @@ msgstr "All"
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachment counter loading..."
-msgstr "Attachment counter loading..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr "Attachment counter loading..."
 #: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
 #, python-format
 msgid "Attachments"
-msgstr "Attachments"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -44,7 +44,7 @@ msgstr "Attachments"
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "CLEAR"
-msgstr "CLEAR"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -52,7 +52,7 @@ msgstr "CLEAR"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Discard"
-msgstr "Discard"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -61,14 +61,14 @@ msgstr "Discard"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "FILTER"
-msgstr "FILTER"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Home Menu"
-msgstr "Home Menu"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -76,7 +76,7 @@ msgstr "Home Menu"
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Maximize"
-msgstr "Maximize"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -84,7 +84,7 @@ msgstr "Maximize"
 #: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
 #, python-format
 msgid "Minimize"
-msgstr "Minimize"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -92,7 +92,7 @@ msgstr "Minimize"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "New"
-msgstr "New"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -101,7 +101,7 @@ msgstr "New"
 #: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
 #, python-format
 msgid "SEE RESULT"
-msgstr "SEE RESULT"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -109,14 +109,14 @@ msgstr "SEE RESULT"
 #: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
 #, python-format
 msgid "Save"
-msgstr "Save"
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
 #, python-format
 msgid "Search menus..."
-msgstr "Search menus..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
@@ -124,11 +124,11 @@ msgstr "Search menus..."
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "Search..."
-msgstr "Search..."
+msgstr ""
 
 #. module: web_responsive
 #. odoo-javascript
 #: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
 #, python-format
 msgid "View switcher"
-msgstr "View switcher"
+msgstr ""
