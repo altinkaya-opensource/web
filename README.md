@@ -25,7 +25,7 @@ addon | version | maintainers | summary
 [web_advanced_search](web_advanced_search/) | 16.0.1.0.6 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Easier and more powerful searching tools
 [web_apply_field_style](web_apply_field_style/) | 16.0.1.0.1 |  | Apply css class style to fields from a dict parameters
 [web_calendar_slot_duration](web_calendar_slot_duration/) | 16.0.1.1.0 | <a href='https://github.com/Yajo'><img src='https://github.com/Yajo.png' width='32' height='32' style='border-radius:50%;' alt='Yajo'/></a> | Customizable calendar slot durations
-[web_chatter_position](web_chatter_position/) | 16.0.1.0.3 |  | Add an option to change the chatter position
+[web_chatter_position](web_chatter_position/) | 16.0.1.0.5 | <a href='https://github.com/trisdoan'><img src='https://github.com/trisdoan.png' width='32' height='32' style='border-radius:50%;' alt='trisdoan'/></a> | Add an option to change the chatter position
 [web_company_color](web_company_color/) | 16.0.1.2.3 |  | Web Company Color
 [web_copy_confirm](web_copy_confirm/) | 16.0.1.0.0 |  | Show confirmation dialogue before copying records
 [web_dark_mode](web_dark_mode/) | 16.0.1.0.2 |  | Enabled Dark Mode for the Odoo Backend
@@ -36,8 +36,10 @@ addon | version | maintainers | summary
 [web_domain_field](web_domain_field/) | 16.0.1.0.1 |  | Use computed field as domain
 [web_editor_class_selector](web_editor_class_selector/) | 16.0.1.1.0 |  | Web editor class selector
 [web_environment_ribbon](web_environment_ribbon/) | 16.0.1.0.0 |  | Web Environment Ribbon
+[web_export_html_as_text](web_export_html_as_text/) | 16.0.1.0.0 |  | Web Export Html As Text
 [web_field_numeric_formatting](web_field_numeric_formatting/) | 16.0.1.0.0 |  | Allow to render float and integer fields without thousands separator
-[web_field_tooltip](web_field_tooltip/) | 16.0.1.1.0 |  | Displays customizable tooltips for fields
+[web_field_tooltip](web_field_tooltip/) | 16.0.1.2.0 |  | Displays customizable tooltips for fields
+[web_group_by_percentage](web_group_by_percentage/) | 16.0.1.0.0 |  | Show the percentage of the total sum in group by rows
 [web_group_expand](web_group_expand/) | 16.0.1.0.0 |  | Group Expand Buttons
 [web_help](web_help/) | 16.0.2.0.0 |  | Help Framework
 [web_hide_field_with_key](web_hide_field_with_key/) | 16.0.1.0.1 | <a href='https://github.com/franzpoize'><img src='https://github.com/franzpoize.png' width='32' height='32' style='border-radius:50%;' alt='franzpoize'/></a> | Hide fields for models
@@ -60,10 +62,11 @@ addon | version | maintainers | summary
 [web_responsive](web_responsive/) | 16.0.1.4.0 | <a href='https://github.com/Tardo'><img src='https://github.com/Tardo.png' width='32' height='32' style='border-radius:50%;' alt='Tardo'/></a> <a href='https://github.com/SplashS'><img src='https://github.com/SplashS.png' width='32' height='32' style='border-radius:50%;' alt='SplashS'/></a> | Responsive web client, community-supported
 [web_save_discard_button](web_save_discard_button/) | 16.0.1.0.2 | <a href='https://github.com/synconics'><img src='https://github.com/synconics.png' width='32' height='32' style='border-radius:50%;' alt='synconics'/></a> | Save & Discard Buttons
 [web_search_with_and](web_search_with_and/) | 16.0.1.0.0 |  | Use AND conditions on omnibar search
+[web_searchbar_full_width](web_searchbar_full_width/) | 16.0.1.0.0 |  | Show search bar in full screen width
 [web_select_all_companies](web_select_all_companies/) | 16.0.1.0.1 |  | Allows you to select all companies in one click.
 [web_send_message_popup](web_send_message_popup/) | 16.0.1.0.0 |  | Web Send Message as Popup
 [web_sheet_full_width](web_sheet_full_width/) | 16.0.1.0.0 |  | Use the whole available screen width when displaying sheets
-[web_systray_button_init_action](web_systray_button_init_action/) | 16.0.1.0.0 |  | Add a button to go to the user init action.
+[web_systray_button_init_action](web_systray_button_init_action/) | 16.0.1.0.1 |  | Add a button to go to the user init action.
 [web_theme_classic](web_theme_classic/) | 16.0.1.0.2 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Contrasted style on fields to improve the UI.
 [web_time_range_menu_custom](web_time_range_menu_custom/) | 16.0.1.0.0 |  | Web Time Range Menu Custom
 [web_timeline](web_timeline/) | 16.0.1.1.7 | <a href='https://github.com/tarteo'><img src='https://github.com/tarteo.png' width='32' height='32' style='border-radius:50%;' alt='tarteo'/></a> | Interactive visualization chart to show events in time
@@ -85,7 +88,7 @@ addon | version | maintainers | summary
 [web_widget_pattern](web_widget_pattern/) | 16.0.1.0.0 | <a href='https://github.com/hbrunn'><img src='https://github.com/hbrunn.png' width='32' height='32' style='border-radius:50%;' alt='hbrunn'/></a> | Allows to define a regex for validating input on the backend
 [web_widget_pattern_partner_autocomplete](web_widget_pattern_partner_autocomplete/) | 16.0.1.0.0 | <a href='https://github.com/hbrunn'><img src='https://github.com/hbrunn.png' width='32' height='32' style='border-radius:50%;' alt='hbrunn'/></a> | Allows to define a regex for validating input on the backend
 [web_widget_plotly_chart](web_widget_plotly_chart/) | 16.0.1.0.0 | <a href='https://github.com/robyf70'><img src='https://github.com/robyf70.png' width='32' height='32' style='border-radius:50%;' alt='robyf70'/></a> | Allow to draw plotly charts.
-[web_widget_product_label_section_and_note](web_widget_product_label_section_and_note/) | 16.0.1.0.3 |  | unify the product and name into a single column
+[web_widget_product_label_section_and_note](web_widget_product_label_section_and_note/) | 16.0.1.0.4 |  | unify the product and name into a single column
 [web_widget_progressbar_gradient](web_widget_progressbar_gradient/) | 16.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | This module allows to display progressbar with gradient
 [web_widget_remaining_days_exact_date](web_widget_remaining_days_exact_date/) | 16.0.1.0.0 | <a href='https://github.com/CarlosRoca13'><img src='https://github.com/CarlosRoca13.png' width='32' height='32' style='border-radius:50%;' alt='CarlosRoca13'/></a> | Allows displaying the exact date alongside the remaining days
 [web_widget_x2many_2d_matrix](web_widget_x2many_2d_matrix/) | 16.0.1.1.3 | <a href='https://github.com/ChrisOForgeFlow'><img src='https://github.com/ChrisOForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='ChrisOForgeFlow'/></a> | Show list fields as a matrix
