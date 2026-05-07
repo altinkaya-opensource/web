@@ -28,7 +28,12 @@ patch(SearchBar.prototype, "web_edit_user_filter.SearchBar", {
         );
 
         var selectedFacet = searchItems.filter(
-            (f) => f.groupId == facetId && f.isActive === true
+            (f) =>
+                f.groupId == facetId &&
+                f.isActive === true &&
+                // Does not allow user to unpack favorite
+                // whose facet was not defined when favorite was created
+                (f.type !== "favorite" || f.facet !== undefined)
         );
 
         if (!selectedFacet.length) {

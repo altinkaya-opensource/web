@@ -6,7 +6,7 @@ import {patch} from "@web/core/utils/patch";
 patch(SearchModel.prototype, "web_edit_user_filter.SearchModel", {
     _getIrFilterDescription(params) {
         var {preFavorite, irFilter} = this._super(...arguments);
-        if (params && "facet" in params) {
+        if (params !== undefined && "facet" in params) {
             preFavorite.facet = params.facet;
             irFilter.facet = params.facet;
         }
