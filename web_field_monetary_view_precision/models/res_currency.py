@@ -1,7 +1,7 @@
 # Copyright 2022 Yiğit Budak (https://github.com/yibudak)
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
-from odoo import models, fields
+from odoo import fields, models
 
 
 class ResCurrency(models.Model):
@@ -11,7 +11,6 @@ class ResCurrency(models.Model):
         return self.env["decimal.precision"].precision_get("Account")
 
     view_precision = fields.Integer(
-        "View Precision",
         default=_get_default_precision,
         help="Number of digits after the decimal"
         " separator when displaying the value"
